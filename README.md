@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 </p>
 
 #### Recent Activity
-- https://www.linkedin.com/in/asadullah-rifat/details/featured/
 - https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/
 
 #### Tech Stack
@@ -47,3 +46,19 @@ Here are some ideas to get you started:
   - Design Principles: • Single responsibility, • DRY • ACID • DDD • SOLID
   - Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
 
+#### Social Media
+
+<p left="center">
+<a href="https://twitter.com/anonymus_7">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/asadullah-rifat">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/Anonymus7/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+<a href="mailto:asadullah.rifat@selise.ch">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
