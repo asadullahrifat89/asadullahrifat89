@@ -1,4 +1,4 @@
-### Hi there 👋! I'm a software engineer from Dhaka, Bangladesh.
+### Hi there 👋!
 
 <!--
 **asadullahrifat89/asadullahrifat89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,10 @@
 Here are some ideas to get you started:
 -->
 #### Who I am?
-I'm a tech professional having 9 years of hands-on experience in system design, product development, technical consultancy, and engineering team management. I have developed products for MedTech, FinTech, Enterprise, and Logistics business industries and have hands-on experience in building native, hybrid, and web apps targeted for mobile, desktop, and cross-platform ecosystems in monolithic and microservices architectures.
+- A software developer based in Dhaka, Bangladesh 
+- Having 9 years of hands-on experience in **system design, product development, technical consultancy, and engineering team management.** 
+- Developed products for **MedTech, FinTech, Enterprise, and Logistics** business domains.
+- Have built **native, hybrid, and web apps** targeted for **mobile, desktop, and cross-platform ecosystems** in **monolithic and microservices architectures.**
 
 #### What I'm doing?
 - 🏢 Working at [SELISE](https://selise.ch/) as **Senior Software Engineer**.
