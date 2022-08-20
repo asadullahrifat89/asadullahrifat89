@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 #### What tech stack I use?
 - 🖥 **Client Side:** 
-  - 📜 Languages: • C# 10 • JavaScript • XAML • HTML • CSS
+  - 📜 Languages: • 🧙🏻 C# 10 • 👨‍🏭 XAML • 👨‍🔧 JavaScript • 🧚🏻‍♂️ HTML • 👨🏻‍🎨 CSS
   - 🔬 Front-end Frameworks:   
     - 🖥 Desktop: • Uno Platform • WinUI 3 • UWP • WPF 
     - 🌏 Web: • Blazor WASM • Uno WASM • Open Silver • ASP.NET MVC  
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   - 🗳 UI Toolkits: • Telerik • Dev Express
   - 📋 Reporting Toolkits: • RDLC • Dev Express Xtra Reporting • Telerik Reporting
 - 🗄️ **Server Side:**
-  - 📜 Languages: • C# 10
+  - 📜 Languages: • 🧙🏻‍♂️ C# 10
   - 🔭 Back-end Frameworks: • ASP.NET Web API
   - 💾 Database Systems: • SQL Server • MongoDB • LiteDB • SQLite
   - 🎛 System Architecture: • Monolithic • Microservices
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   - 🗃 Project Management: • Jira • Azure DevOps
   - 🗂 Infrastructure Management: • IIS • Azure Dev Ops • Azure Pipelines • Github Actions • Github Pages
 - 🧙‍♂️ **Coding Pattern & Principles:**
-  - 🍳 Design Patterns:  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Code Behind • Event Sourcing • Message Queuing
+  - ⚒ Design Patterns:  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Code Behind • Event Sourcing • Message Queuing
   - 🗜 Design Principles: • Single Responsibility, • DRY • ACID • DDD • SOLID
   - 🕹 Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
 
