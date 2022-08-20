@@ -27,17 +27,19 @@ Here are some ideas to get you started:
 
 #### What tech stack I use?
 - 🖥 **Client Side:** 
-  - Front-end:
-    - Desktop: • WinUI 3 • UWP • WPF • Uno Platform
+  - Languages: • C# 10 • XAML • HTML • JavaScript
+  - Front-end Frameworks:   
+    - Desktop: • WinUI 3 • WPF • Uno Platform
     - Web: • Blazor WASM • ASP.NET MVC • Uno Platform • Open Silver
     - Mobile: • Xamarin • .NET MAUI • Uno Platform
   - UI Toolkits: • Telerik • Dev Express
-  - Reporting: • RDLC • Dev Express Xtra Reporting • Telerik Reporting
+  - Reporting Toolkits: • RDLC • Dev Express Xtra Reporting • Telerik Reporting
 - 🗄️ **Server Side:**
-  - Back-end: • C# 10 • ASP.NET Web API
-  - Database: • SQL Server • MongoDB • LiteDB • SQLite
-  - Architecture: • Monolithic • Microservices
-  - Communication: • SignalR • RabbitMQ • TCP/IP • Web Socket
+  - Languages: • C# 10
+  - Back-end Framworks: • ASP.NET Web API
+  - Database Systems: • SQL Server • MongoDB • LiteDB • SQLite
+  - System Architecture: • Monolithic • Microservices
+  - Communication Protocols: • SignalR • RabbitMQ • TCP/IP • Web Socket
 - 🎡 **Software Development Lifecycle:**
   - Repository Management: • Git • Microsoft Azure Dev Ops
   - Project Management: • Jira • Azure DevOps
