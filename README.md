@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - Have built **native, hybrid,** and **web** apps targeted for **mobile, desktop, and cross-platform ecosystems** in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
-- 🏢 Working at [SELISE](https://selise.ch/) as **Senior Software Engineer**.
+- 🏢 Working at **[SELISE](https://selise.ch/)** as **Senior Software Engineer**.
 - 🔭 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`.
 - 🥰 Building [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform) as a hobby.
 - 👯 Looking to collaborate on **.NET Projects**.
