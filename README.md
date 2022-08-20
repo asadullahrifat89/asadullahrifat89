@@ -39,10 +39,10 @@ Here are some ideas to get you started:
   - 💾 Database Systems: • SQL Server • MongoDB • LiteDB • SQLite
   - 🎛 System Architecture: • Monolithic • Microservices
   - 🔌 Communication Protocols: • REST • SignalR • RabbitMQ • TCP/IP • Web Socket
-- 🎡 **Software Development Lifecycle:**
-  - 📁 Repository Management: • Git • Microsoft Azure Dev Ops
+- 🎡 **Software Development Ecosystem:**
+  - 📁 Code Repository: • Git • BitBucket • Microsoft Azure Dev Ops
   - 🗃 Project Management: • Jira • Azure DevOps
-  - 🗂 Infrastructure Management: • IIS • Azure Dev Ops • Azure Pipelines • Github Actions • Github Pages
+  - 🗂 CI/CD: • IIS • Azure Dev Ops • Azure Pipelines • Github Actions • Github Pages
 - 🧙‍♂️ **Coding Pattern & Principles:**
   - ⚒ Design Patterns:  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Code Behind • Event Sourcing • Message Queuing
   - 🗜 Design Principles: • Single Responsibility, • DRY • ACID • DDD • SOLID
