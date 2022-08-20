@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🛠️ Now building [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)
 - 👯 Looking to collaborate on **.NET Projects**
 - 🌍 Mostly active within the **.NET Community** and **LinkedIn**
-- ❤️ Right now learning about **WebAssembly**, **Single Source Multi Platform App Development**
+- 📚 Right now learning about **WebAssembly**, **Single Source Multi Platform App Development**
 - 🌱 Excited about **Microservices**, **System design**, **Computer Vision**, **NLP**, **Process Mining**, **Distributed Systems**, **IoT**
 
 #### How to get started with me?
@@ -24,12 +24,6 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-#### What I've been upto lately?
-- https://www.linkedin.com/feed/update/urn:li:activity:6965770912805568512/
-- https://www.linkedin.com/feed/update/urn:li:activity:6963517756608495616/
-- https://twitter.com/UnoPlatform/status/1557751572678975488
-- https://twitter.com/WasmWeekly/status/1560266404171231232
 
 #### What tech stack I use?
 - 🖥 **Client Side:** 
@@ -52,6 +46,10 @@ Here are some ideas to get you started:
   - Design Patterns:  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Code Behind • Event sourcing • Message queuing
   - Design Principles: • Single responsibility, • DRY • ACID • DDD • SOLID
   - Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
+
+#### What I've been upto lately?
+- https://twitter.com/UnoPlatform/status/1557751572678975488
+- https://twitter.com/WasmWeekly/status/1560266404171231232
 
 #### How to get in touch with me?
 
