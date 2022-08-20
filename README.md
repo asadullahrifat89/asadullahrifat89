@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 #### Who I am?
-- A software developer based in Dhaka, Bangladesh 
+- A software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Having 9 years of hands-on experience in **system design, product development, technical consultancy, and engineering team management.** 
 - Developed products for **MedTech, FinTech, Enterprise, and Logistics** business domains.
 - Have built **native, hybrid, and web apps** targeted for **mobile, desktop, and cross-platform ecosystems** in **monolithic and microservices architectures.**
