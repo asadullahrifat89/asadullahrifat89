@@ -53,6 +53,9 @@ Here are some ideas to get you started:
 - https://twitter.com/UnoPlatform/status/1557751572678975488
 - https://twitter.com/WasmWeekly/status/1560266404171231232
 
+#### What companies have I worked for?
+<img src="https://media.flughafen-zuerich.ch/-/jssmedia/airport/portal/logos/circle/selise_zugeschnitten.png?vs=1&rev=8557543d724f4c918b6aac0f2fcebc7d" height=100> <img src="https://3ssoftltd.com/wp-content/uploads/2021/08/logo-1.svg" height=100 width=200>
+
 #### How to get in touch with me?
 
 <p left="center">
