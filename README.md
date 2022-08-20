@@ -5,15 +5,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🏢 I'm current working at [SELISE DIGITAL PLATFORMS](https://selise.ch/)
-- 🔭 I’m write daily `C#`
-- 🌱 I’m currently building a [WASM 2D Space Shooter](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [WASM Photo Editor](https://github.com/asadullahrifat89/Phototis-Uno-Platform)
+- 🏢 I'm working at [SELISE DIGITAL PLATFORMS](https://selise.ch/)
+- 🔭 I write okay `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`
+- 🌱 I’m now building a [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)
 - 👯 I’m looking to collaborate on **.NET Projects**
-- 🤔 I’m looking for help with ...
+- 🌍 I'm mostly active within the **.NET Community**
+- 🌱 Learning all about **WASM**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/asadullah-rifat/)
 - 💬 Ask me about **C#**, **Software Engineering**, **System Design**, **Microservices**
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ### My expertise
 - Client Side: 
