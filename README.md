@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on **.NET Projects**.
 - 🌍 Mostly active within the **.NET Community** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
 - 📚 Right now learning about **System Design**, **WebAssembly**, **Single Source Multi Platform App Development**.
-- 🌱 Worked in projects that involve **Microservices**, **Transactional Systems** ,**Computer Vision**, **Process Mining**, **Distributed Systems**, **IoT**.
+- 🌱 Worked in projects that involve **Microservices**, **Digital Signatures**, **Line of Business**, **Computer Vision**, **Process Mining Algorithms**, **Distributed Systems**, and **IoT Integration**.
 
 #### How to get started with me?
-- 💬 Ask me about **.NET Ecosystem**, **Software Development**, **Scalable Systems**, **Design Patterns**, **Software Development Principles**, **Data Structures**, **Clean Code**, **Responsible Coding**, **Software Engineering Career**.
 - 📫 Reach me on **[Twitter](https://twitter.com/anonymus_7)** or **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
+- 💬 Ask me about **.NET Ecosystem**, **Software Development**, **Scalable Systems**, **Design Patterns**, **Software Development Principles**, **Data Structures**, **Clean Code**, **Responsible Coding**, and **Software Engineering Career**.
 
 #### How much I code?
 <!--<b>⚡ Github Stats</b>-->
