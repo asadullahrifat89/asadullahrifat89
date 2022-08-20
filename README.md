@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 #### What I'm doing?
 - 🏢 Working at [SELISE](https://selise.ch/) as **Senior Software Engineer**.
 - 🔭 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`.
-- 🛠️ Building [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform) as a hobby.
+- 🥰 Building [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform) as a hobby.
 - 👯 Looking to collaborate on **.NET Projects**.
 - 🌍 Mostly active within the **.NET Community** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
 - 📚 Right now learning about **System Design**, **WebAssembly**, **Single Source Multi Platform App Development**.
-- 🌱 Worked in projects that involve **Microservices**, **Digital Signatures**, **Line of Business**, **Computer Vision**, **Process Mining Algorithms**, **Distributed Systems**, and **IoT Integration**.
+- 🛠️ Worked in projects that involve **Microservices**, **Digital Signatures**, **Line of Business**, **Computer Vision**, **Process Mining Algorithms**, **Distributed Systems**, and **IoT Integration**.
 
 #### How to get started with me?
 - 📫 Reach me on **[Twitter](https://twitter.com/anonymus_7)** or **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
@@ -55,10 +55,6 @@ Here are some ideas to get you started:
   - 🗜 Design Principles: • Single Responsibility, • DRY • ACID • DDD • SOLID
   - 🕹 Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
 
-#### What I've been upto lately?
-- https://twitter.com/UnoPlatform/status/1557751572678975488
-- https://twitter.com/WasmWeekly/status/1560266404171231232
-
 #### What companies have I worked for?
 <p left="center">
   <a href="https://selise.ch/">
@@ -73,6 +69,10 @@ Here are some ideas to get you started:
     <img src="https://media-exp2.licdn.com/dms/image/C560BAQHExv1q9hPJsQ/company-logo_200_200/0/1596953488512?e=2147483647&v=beta&t=C1nc6JqP2kkOx1vGFxtL0iAqNIhB_Ulv62xyAm_hkNA" height=100 width=100>
   </a>
 </p>
+
+#### What I've been upto lately?
+- https://twitter.com/UnoPlatform/status/1557751572678975488
+- https://twitter.com/WasmWeekly/status/1560266404171231232
 
 #### How to get in touch with me?
 
