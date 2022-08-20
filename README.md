@@ -16,19 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### My expertise
-- Technical:
-    - Client Side: 
-      - Front-end:
-      - Desktop: • WinUI 3 • UWP • WPF • Uno Platform
-      - Web: • Blazor WASM • ASP.NET MVC • Uno Platform • Open Silver
-      - Mobile: • Xamarin • .NET MAUI • Uno Platform
-      - UI Toolkits: • Telerik • Dev Express
-      - Reporting: • RDLC • Dev Express Xtra Reporting • Telerik Reporting
-    - Server Side:
-      - Back-end: • C# 10 • ASP.NET Web API
-      - Database: • SQL Server • MongoDB • LiteDB • SQLite
-      - Architecture: • Monolithic • Microservices
-      - Communication: • SignalR • RabbitMQ • TCP/IP • Web Socket
+- Client Side: 
+  - Front-end:
+    - Desktop: • WinUI 3 • UWP • WPF • Uno Platform
+    - Web: • Blazor WASM • ASP.NET MVC • Uno Platform • Open Silver
+    - Mobile: • Xamarin • .NET MAUI • Uno Platform
+  - UI Toolkits: • Telerik • Dev Express
+  - Reporting: • RDLC • Dev Express Xtra Reporting • Telerik Reporting
+- Server Side:
+  - Back-end: • C# 10 • ASP.NET Web API
+  - Database: • SQL Server • MongoDB • LiteDB • SQLite
+  - Architecture: • Monolithic • Microservices
+  - Communication: • SignalR • RabbitMQ • TCP/IP • Web Socket
 - SDLC:
   - Repository Management: • Git • Microsoft Azure Dev Ops
   - Project Management: • Jira • Azure DevOps
