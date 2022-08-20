@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on **.NET projects**.
 - 🌍 Mostly active within the **.NET community** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
-- 🛠️ Working in projects that involve **microservices**, **digital signatures**, **state machines**, **distributed systems**, and **IoT integrations**.
+- 🛠️ Working in projects that involve **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations**.
 
 #### How to get started with me?
 - 📫 Reach me out on **[Twitter](https://twitter.com/anonymus_7)** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
