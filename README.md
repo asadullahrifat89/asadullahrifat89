@@ -5,14 +5,17 @@
 
 Here are some ideas to get you started:
 -->
+#### Who I am?
+I'm a tech professional having 9 years of hands-on experience in system design, product development, technical consultancy, and engineering team management. I have developed products for MedTech, FinTech, Enterprise, and Logistics business industries and have hands-on experience in building native, hybrid, and web apps targeted for mobile, desktop, and cross-platform ecosystems in monolithic and microservices architectures.
+
 #### What I'm doing?
 - 🏢 Working at [SELISE](https://selise.ch/) as **Senior Software Engineer**.
 - 🔭 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`.
 - 🛠️ Building [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform) as a hobby.
 - 👯 Looking to collaborate on **.NET Projects**.
 - 🌍 Mostly active within the **.NET Community** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
-- 📚 Right now learning about **WebAssembly**, **Single Source Multi Platform App Development**.
-- 🌱 Excited about **Microservices**, **System design**, **Computer Vision**, **NLP**, **Process Mining**, **Distributed Systems**, **IoT**.
+- 📚 Right now learning about **System Design**, **WebAssembly**, **Single Source Multi Platform App Development**.
+- 🌱 Worked in projects that involve **Microservices**, **Transactional Systems** ,**Computer Vision**, **Process Mining**, **Distributed Systems**, **IoT**.
 
 #### How to get started with me?
 - 📫 Reach me on **[Twitter](https://twitter.com/anonymus_7)** or **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
