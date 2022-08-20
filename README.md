@@ -47,6 +47,11 @@ Here are some ideas to get you started:
   - ⚒ Patterns:  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Code Behind • Event Sourcing • Message Queuing
   - 🗜 Principles: • Single Responsibility, • DRY • ACID • DDD • SOLID
   - 🕹 Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
+- ⚡ **Github Stats:**
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 #### What companies have I worked for?
 <p left="center">
@@ -64,11 +69,7 @@ Here are some ideas to get you started:
 </p>
 
 #### What do my GitHub stats say?
-<!--<b>⚡ Github Stats</b>-->
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+
 
 #### What are my recent highlights?
 - [featured-a-space-shooter-game-on-the-web-with-c#-wasm-on-blogs-uno-platform](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
