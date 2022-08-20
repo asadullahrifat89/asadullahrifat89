@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   - 🔭 Back-end Frameworks: • ASP.NET Web API
   - 💾 Database Systems: • SQL Server • MongoDB • LiteDB • SQLite
   - 🎛 System Architecture: • Monolithic • Microservices
-  - 🔌 Communication Protocols: • SignalR • RabbitMQ • TCP/IP • Web Socket
+  - 🔌 Communication Protocols: • REST • SignalR • RabbitMQ • TCP/IP • Web Socket
 - 🎡 **Software Development Lifecycle:**
   - 📁 Repository Management: • Git • Microsoft Azure Dev Ops
   - 🗃 Project Management: • Jira • Azure DevOps
