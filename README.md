@@ -6,17 +6,17 @@
 Here are some ideas to get you started:
 -->
 #### What I'm doing?
-- 🏢 Working at [SELISE DIGITAL PLATFORMS](https://selise.ch/) as **Senior Software Engineer**
-- 🔭 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`
-- 🛠️ Now building [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)
-- 👯 Looking to collaborate on **.NET Projects**
-- 🌍 Mostly active within the **.NET Community** and **LinkedIn**
-- 📚 Right now learning about **WebAssembly**, **Single Source Multi Platform App Development**
-- 🌱 Excited about **Microservices**, **System design**, **Computer Vision**, **NLP**, **Process Mining**, **Distributed Systems**, **IoT**
+- 🏢 Working at [SELISE](https://selise.ch/) as **Senior Software Engineer**.
+- 🔭 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`.
+- 🛠️ Building [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform) as a hobby.
+- 👯 Looking to collaborate on **.NET Projects**.
+- 🌍 Mostly active within the **.NET Community** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
+- 📚 Right now learning about **WebAssembly**, **Single Source Multi Platform App Development**.
+- 🌱 Excited about **Microservices**, **System design**, **Computer Vision**, **NLP**, **Process Mining**, **Distributed Systems**, **IoT**.
 
 #### How to get started with me?
-- 📫 Reach me on **[Twitter](https://twitter.com/anonymus_7)** or **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**
-- 💬 Ask me about **.NET Ecosystem**, **Software Development**, **Scalable Systems**, **Design Patterns**, **Software Development Principles**, **Data Structures**, **Clean Code**, **Responsible Coding**, **Software Engineering Career**
+- 📫 Reach me on **[Twitter](https://twitter.com/anonymus_7)** or **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
+- 💬 Ask me about **.NET Ecosystem**, **Software Development**, **Scalable Systems**, **Design Patterns**, **Software Development Principles**, **Data Structures**, **Clean Code**, **Responsible Coding**, **Software Engineering Career**.
 
 #### How much I code?
 <!--<b>⚡ Github Stats</b>-->
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 #### What tech stack I use?
 - 🖥 **Client Side:** 
-  - 📜 Languages: • C# 10 • XAML • HTML • JavaScript
+  - 📜 Languages: • C# 10 • JavaScript • XAML • HTML • CSS
   - 🔬 Front-end Frameworks:   
     - 🖥 Desktop: • WinUI 3 • WPF • Uno Platform
     - 🌏 Web: • Blazor WASM • ASP.NET MVC • Uno Platform • Open Silver
