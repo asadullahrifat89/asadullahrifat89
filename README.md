@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on **.NET Projects**.
 - 🌍 Mostly active within the **.NET Community** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
 - 📚 Right now learning about **System Design**, **WebAssembly**, **Single Source Multi Platform App Development**.
-- 🛠️ Worked in projects that involve **Microservices**, **Digital Signatures**, **Line of Business**, **Computer Vision**, **Process Mining Algorithms**, **Distributed Systems**, and **IoT Integration**.
+- 🛠️ Worked in projects that involve **Microservices**, **Digital Signatures**, **POS**, **Computer Vision**, **Process Mining Algorithms**, **Distributed Systems**, and **IoT Integration**.
 
 #### How to get started with me?
 - 📫 Reach me on **[Twitter](https://twitter.com/anonymus_7)** or **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
