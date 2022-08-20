@@ -60,13 +60,13 @@ Here are some ideas to get you started:
 - https://twitter.com/WasmWeekly/status/1560266404171231232
 
 #### What companies have I worked for?
-<img src="https://media.flughafen-zuerich.ch/-/jssmedia/airport/portal/logos/circle/selise_zugeschnitten.png?vs=1&rev=8557543d724f4c918b6aac0f2fcebc7d" height=100> <img src="https://3ssoftltd.com/wp-content/uploads/2021/08/logo-1.svg" height=100 width=200> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/13/7e/6d/137e6dca-2956-bfec-a0bd-57d37ab63af0/source/512x512bb.jpg" height=100> <img src="https://media-exp2.licdn.com/dms/image/C560BAQHExv1q9hPJsQ/company-logo_200_200/0/1596953488512?e=2147483647&v=beta&t=C1nc6JqP2kkOx1vGFxtL0iAqNIhB_Ulv62xyAm_hkNA" height=100 width=100>
+<a href="https://selise.ch/"> <img src="https://media.flughafen-zuerich.ch/-/jssmedia/airport/portal/logos/circle/selise_zugeschnitten.png?vs=1&rev=8557543d724f4c918b6aac0f2fcebc7d" height=100></a> <img src="https://3ssoftltd.com/wp-content/uploads/2021/08/logo-1.svg" height=100 width=200> <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/13/7e/6d/137e6dca-2956-bfec-a0bd-57d37ab63af0/source/512x512bb.jpg" height=100> <img src="https://media-exp2.licdn.com/dms/image/C560BAQHExv1q9hPJsQ/company-logo_200_200/0/1596953488512?e=2147483647&v=beta&t=C1nc6JqP2kkOx1vGFxtL0iAqNIhB_Ulv62xyAm_hkNA" height=100 width=100>
 
 #### How to get in touch with me?
 
 <p left="center">
 <a href="https://twitter.com/anonymus_7">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25">
 </a> 
 <a href="https://www.linkedin.com/in/asadullah-rifat">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
