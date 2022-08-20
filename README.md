@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 🏢 Working at **[SELISE](https://selise.ch/)** as **Senior Software Engineer**.
 - 🔭 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`.
 - 🥰 Building [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform) as a hobby.
-- 👯 Looking to collaborate on **.NET Projects**.
-- 🌍 Mostly active within the **.NET Community** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
+- 👯 Looking to collaborate on **.NET projects**.
+- 🌍 Mostly active within the **.NET community** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
-- 🛠️ Working in projects that involve **Microservices**, **Digital Signatures**, **POS**, **Distributed Systems**, and **IoT Integration**.
+- 🛠️ Working in projects that involve **microservices**, **digital signatures**, **workflow**, **distributed systems**, and **IoT integrations**.
 
 #### How to get started with me?
 - 📫 Reach me out on **[Twitter](https://twitter.com/anonymus_7)** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
