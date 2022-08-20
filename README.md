@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 #### How to get started with me?
 - 📫 Reach me out on **[Twitter](https://twitter.com/anonymus_7)** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
-- 💬 Ask me about **.NET Ecosystem**, **Scalable Systems**, **Design Patterns**, **Software Development Principles**, **Data Structures**, **Clean Code**, **Responsible Coding**, and **Growth Hacking**.
+- 💬 Ask me about **.NET Ecosystem**, **Scalable Systems**, **Design Patterns**, **Speed Coding**, **Data Structures**, **Clean Code**, **Responsible Coding**, and **Growth Hacking**.
 
 #### What's my skill set?
 - 🖥 **Client Side:** 
