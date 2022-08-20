@@ -68,9 +68,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-#### What do my GitHub stats say?
-
-
 #### What are my recent highlights?
 - [featured-a-space-shooter-game-on-the-web-with-c#-wasm-on-blogs-uno-platform](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
 - [featured-article-on-2d-web-games-on-twitter-wasm-weekly](https://twitter.com/WasmWeekly/status/1560266404171231232)
