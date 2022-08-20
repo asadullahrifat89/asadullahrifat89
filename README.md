@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   - 🗃 Project Management: • Jira • Azure DevOps
   - 🗂 CI/CD: • IIS • Azure Dev Ops • Azure Pipelines • Github Actions • Github Pages
 - 🧙‍♂️ **Coding Pattern & Principles:**
-  - ⚒ Patterns:  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Code Behind • Event Sourcing • Message Queuing
+  - ⚒ Patterns:  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Event Sourcing • Message Queuing
   - 🗜 Principles: • Single Responsibility, • DRY • ACID • DDD • SOLID
   - 🕹 Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
 - ⚡ **Github Stats:**
