@@ -24,13 +24,6 @@ Here are some ideas to get you started:
 - 📫 Reach me on **[Twitter](https://twitter.com/anonymus_7)** or **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
 - 💬 Ask me about **.NET Ecosystem**, **Software Development**, **Scalable Systems**, **Design Patterns**, **Software Development Principles**, **Data Structures**, **Clean Code**, **Responsible Coding**, and **Software Engineering Career**.
 
-#### How much I code?
-<!--<b>⚡ Github Stats</b>-->
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
 #### What tech stack I use?
 - 🖥 **Client Side:** 
   - 📜 Languages: • 🧙🏻 C# 10 • 👨‍🏭 XAML • 👨‍🔧 JavaScript • 🧚🏻‍♂️ HTML • 👨🏻‍🎨 CSS
@@ -68,6 +61,13 @@ Here are some ideas to get you started:
   <a href="https://www.celimited.com/">
     <img src="https://media-exp2.licdn.com/dms/image/C560BAQHExv1q9hPJsQ/company-logo_200_200/0/1596953488512?e=2147483647&v=beta&t=C1nc6JqP2kkOx1vGFxtL0iAqNIhB_Ulv62xyAm_hkNA" height=100 width=100>
   </a>
+</p>
+
+#### How much I code?
+<!--<b>⚡ Github Stats</b>-->
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 #### What I've been upto lately?
