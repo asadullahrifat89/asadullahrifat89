@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 🌱 Worked in projects that involve **Microservices**, **Transactional Systems** ,**Computer Vision**, **Process Mining**, **Distributed Systems**, **IoT**.
 
 #### How to get started with me?
-- 📫 Reach me on **[Twitter](https://twitter.com/anonymus_7)** or **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
 - 💬 Ask me about **.NET Ecosystem**, **Software Development**, **Scalable Systems**, **Design Patterns**, **Software Development Principles**, **Data Structures**, **Clean Code**, **Responsible Coding**, **Software Engineering Career**.
+- 📫 Reach me on **[Twitter](https://twitter.com/anonymus_7)** or **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
 
 #### How much I code?
 <!--<b>⚡ Github Stats</b>-->
