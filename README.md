@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 - [honored-with-dragon-award-by-selise-digital-platforms](https://www.linkedin.com/posts/asadullah-rifat_people-tech-culture-activity-6962505193817071616-ymfj?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 #### How to get in touch with me?
-
 <p left="center">
 <a href="https://twitter.com/anonymus_7">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25">
