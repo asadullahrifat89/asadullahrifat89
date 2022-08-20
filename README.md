@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+#### Recent Activity
+- https://www.linkedin.com/in/asadullah-rifat/details/featured/
+- https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/
+
 #### Tech Stack
 - Client Side: 
   - Front-end:
