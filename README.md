@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 - 🗄️ **Server Side:**
   - 📜 Languages: • C# 10
   - 🔭 Back-end Frameworks: • ASP.NET Web API
-  - Database Systems: • SQL Server • MongoDB • LiteDB • SQLite
-  - System Architecture: • Monolithic • Microservices
-  - Communication Protocols: • SignalR • RabbitMQ • TCP/IP • Web Socket
+  - 💾 Database Systems: • SQL Server • MongoDB • LiteDB • SQLite
+  - 🎛 System Architecture: • Monolithic • Microservices
+  - 🔌 Communication Protocols: • SignalR • RabbitMQ • TCP/IP • Web Socket
 - 🎡 **Software Development Lifecycle:**
   - 🔧Repository Management: • Git • Microsoft Azure Dev Ops
   - Project Management: • Jira • Azure DevOps
