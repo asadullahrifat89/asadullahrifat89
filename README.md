@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 - 🔭 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`
 - 🛠️ Now building [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)
 - 👯 Looking to collaborate on **.NET Projects**
-- 🌍 Mostly active within the **.NET Community** and [LinkedIn](https://www.linkedin.com/in/asadullah-rifat)
+- 🌍 Mostly active within the **.NET Community** and **LinkedIn**
 - ❤️ Right now learning about **WebAssembly**, **Single Source Multi Platform App Development**
 - 🌱 Excited about **Microservices**, **System design**, **Computer Vision**, **NLP**, **Process Mining**, **Distributed Systems**, **IoT**
 
 #### How to get started with me?
-- 📫 Mail me at **asadullah.rifat@selise.ch**
-- 💬 Ask me about **.NET Ecosystem**, **Software Development**, **Scalable Systems**, **Design Patterns**, **Development Principles**, **Data Structures**, **Clean Code**, **Responsible Coding**
+- 📫 Reach me on **[Twitter](https://twitter.com/anonymus_7)** or **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**
+- 💬 Ask me about **.NET Ecosystem**, **Software Development**, **Scalable Systems**, **Design Patterns**, **Software Development Principles**, **Data Structures**, **Clean Code**, **Responsible Coding**, **Software Engineering Career**
 
 #### How much I code?
 <!--<b>⚡ Github Stats</b>-->
@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 </p>
 
 #### What I've been upto lately?
-- https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/
+- https://www.linkedin.com/feed/update/urn:li:activity:6965770912805568512/
+- https://www.linkedin.com/feed/update/urn:li:activity:6963517756608495616/
+- https://twitter.com/UnoPlatform/status/1557751572678975488
+- https://twitter.com/WasmWeekly/status/1560266404171231232
 
 #### What tech stack I use?
 - 🖥 **Client Side:** 
