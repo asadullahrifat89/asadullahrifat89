@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 Reach me on **[Twitter](https://twitter.com/anonymus_7)** or **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
 - 💬 Ask me about **.NET Ecosystem**, **Software Development**, **Scalable Systems**, **Design Patterns**, **Software Development Principles**, **Data Structures**, **Clean Code**, **Responsible Coding**, and **Software Engineering Career**.
 
-#### What's my skillset?
+#### What's my skill set?
 - 🖥 **Client Side:** 
   - 📜 Languages: • 🧙🏻 C# 10 • 👨‍🏭 XAML • 👨‍🔧 JavaScript • 🧚🏻‍♂️ HTML • 👨🏻‍🎨 CSS
   - 🔬 Front-end Frameworks:   
