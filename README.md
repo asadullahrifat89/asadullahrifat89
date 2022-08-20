@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 - 🖥 **Client Side:** 
   - 📜 Languages: • C# 10 • JavaScript • XAML • HTML • CSS
   - 🔬 Front-end Frameworks:   
-    - 🖥 Desktop: • WinUI 3 • WPF • Uno Platform
-    - 🌏 Web: • Blazor WASM • ASP.NET MVC • Uno Platform • Open Silver
+    - 🖥 Desktop: • Uno Platform • WinUI 3 • UWP • WPF 
+    - 🌏 Web: • Blazor WASM • Uno WASM • Open Silver • ASP.NET MVC  
     - 📱 Mobile: • Xamarin • .NET MAUI • Uno Platform
   - 🗳 UI Toolkits: • Telerik • Dev Express
   - 📋 Reporting Toolkits: • RDLC • Dev Express Xtra Reporting • Telerik Reporting
