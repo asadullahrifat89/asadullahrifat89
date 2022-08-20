@@ -1,4 +1,4 @@
-### Hi there 👋!
+### Hi there 👋! I'm a software engineer from Dhaka, Bangladesh.
 
 <!--
 **asadullahrifat89/asadullahrifat89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
   - 🗃 Project Management: • Jira • Azure DevOps
   - 🗂 Infrastructure Management: • IIS • Azure Dev Ops • Azure Pipelines • Github Actions • Github Pages
 - 🧙‍♂️ **Coding Pattern & Principles:**
-  - 🍳 Design Patterns:  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Code Behind • Event sourcing • Message queuing
-  - 🗜 Design Principles: • Single responsibility, • DRY • ACID • DDD • SOLID
+  - 🍳 Design Patterns:  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Code Behind • Event Sourcing • Message Queuing
+  - 🗜 Design Principles: • Single Responsibility, • DRY • ACID • DDD • SOLID
   - 🕹 Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
 
 #### What I've been upto lately?
