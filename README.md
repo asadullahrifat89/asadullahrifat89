@@ -10,11 +10,18 @@ Here are some ideas to get you started:
 - 🌱 I’m now building a [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)
 - 👯 I’m looking to collaborate on **.NET Projects**
 - 🌍 I'm mostly active within the **.NET Community**
-- 🌱 Learning all about **WASM**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/asadullah-rifat/)
+- 🌱 Learning all about **WASM**, **System Architecture**, **Computer Vision**, **NLP**, **Process Mining**
+- 📫 Reach me @ **asadullah.rifat@selise.ch**
 - 💬 Ask me about **C#**, **Software Engineering**, **System Design**, **Microservices**
 
-### My expertise
+#### Development:
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+#### Tech Stack
 - Client Side: 
   - Front-end:
     - Desktop: • WinUI 3 • UWP • WPF • Uno Platform
