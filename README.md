@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🥰 Building [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform) as a hobby.
 - 👯 Looking to collaborate on **.NET Projects**.
 - 🌍 Mostly active within the **.NET Community** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
-- 📚 Right now learning about **System Design**, **WebAssembly**, **Computer Vision**, and **Process Mining Algorithms**.
+- 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
 - 🛠️ Worked in projects that involve **Microservices**, **Digital Signatures**, **POS**, **Distributed Systems**, and **IoT Integration**.
 
 #### How to get started with me?
