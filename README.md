@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 - 🖥 **Client Side:** 
   - 📜 Languages: • C# 10 • XAML • HTML • JavaScript
   - 🔬 Front-end Frameworks:   
-    - Desktop: • WinUI 3 • WPF • Uno Platform
-    - Web: • Blazor WASM • ASP.NET MVC • Uno Platform • Open Silver
-    - Mobile: • Xamarin • .NET MAUI • Uno Platform
-  - UI Toolkits: • Telerik • Dev Express
-  - Reporting Toolkits: • RDLC • Dev Express Xtra Reporting • Telerik Reporting
+    - 🖥 Desktop: • WinUI 3 • WPF • Uno Platform
+    - 🌏 Web: • Blazor WASM • ASP.NET MVC • Uno Platform • Open Silver
+    - 📱 Mobile: • Xamarin • .NET MAUI • Uno Platform
+  - 🗳 UI Toolkits: • Telerik • Dev Express
+  - 📋 Reporting Toolkits: • RDLC • Dev Express Xtra Reporting • Telerik Reporting
 - 🗄️ **Server Side:**
   - 📜 Languages: • C# 10
   - 🔭 Back-end Frameworks: • ASP.NET Web API
@@ -41,13 +41,13 @@ Here are some ideas to get you started:
   - 🎛 System Architecture: • Monolithic • Microservices
   - 🔌 Communication Protocols: • SignalR • RabbitMQ • TCP/IP • Web Socket
 - 🎡 **Software Development Lifecycle:**
-  - 🔧Repository Management: • Git • Microsoft Azure Dev Ops
-  - Project Management: • Jira • Azure DevOps
-  - Infrastructure Management: • IIS • Azure Dev Ops • Azure Pipelines • Github Actions • Github Pages
+  - 📁 Repository Management: • Git • Microsoft Azure Dev Ops
+  - 🗃 Project Management: • Jira • Azure DevOps
+  - 🗂 Infrastructure Management: • IIS • Azure Dev Ops • Azure Pipelines • Github Actions • Github Pages
 - 🧙‍♂️ **Coding Pattern & Principles:**
   - 🍳 Design Patterns:  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Code Behind • Event sourcing • Message queuing
-  - Design Principles: • Single responsibility, • DRY • ACID • DDD • SOLID
-  - Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
+  - 🗜 Design Principles: • Single responsibility, • DRY • ACID • DDD • SOLID
+  - 🕹 Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
 
 #### What I've been upto lately?
 - https://twitter.com/UnoPlatform/status/1557751572678975488
