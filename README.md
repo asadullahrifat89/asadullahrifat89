@@ -18,25 +18,25 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on **.NET Projects**.
 - 🌍 Mostly active within the **.NET Community** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
-- 🛠️ Worked in projects that involve **Microservices**, **Digital Signatures**, **POS**, **Distributed Systems**, and **IoT Integration**.
+- 🛠️ Working in projects that involve **Microservices**, **Digital Signatures**, **POS**, **Distributed Systems**, and **IoT Integration**.
 
 #### How to get started with me?
 - 📫 Reach me out on **[Twitter](https://twitter.com/anonymus_7)** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
 - 💬 Ask me about **.NET ecosystem**, **scalable systems**, **design patterns**, **coding speed hacks**, **data structures**, and **clean code**.
 
 #### What's my skill set?
-- 🖥 **Client Side:** 
+- 🖥 **Front-end:** 
   - 📜 Languages: • 🧙🏻 C# 10 • 👨‍🏭 XAML • 👨‍🔧 JavaScript • 🧚🏻‍♂️ HTML • 👨🏻‍🎨 CSS
-  - 🔬 Front-end Frameworks:   
+  - 🔬 Frameworks:   
     - 🖥 Desktop: • Uno Platform • WinUI 3 • UWP • WPF 
     - 🌏 Web: • Blazor WASM • Uno WASM • Open Silver • ASP.NET MVC  
     - 📱 Mobile: • Xamarin • .NET MAUI • Uno Platform
   - 🗳 UI Toolkits: • Telerik • Dev Express
   - 📋 Reporting Toolkits: • RDLC • Dev Express Xtra Reporting • Telerik Reporting
-- 🗄️ **Server Side:**
+- 🗄️ **Back-end:**
   - 📜 Languages: • 🧙🏻‍♂️ C# 10
-  - 🔭 Back-end Frameworks: • ASP.NET Web API
-  - 💾 Database Systems: • SQL Server • MongoDB • LiteDB • SQLite
+  - 🔭 Frameworks: • ASP.NET Web API
+  - 💾 Databases: • SQL Server • MongoDB • LiteDB • SQLite
   - 🎛 System Architecture: • Monolithic • Microservices
   - 🔌 Communication Protocols: • REST • SignalR • RabbitMQ • TCP/IP • Web Socket
 - 🎡 **Software Development Ecosystem:**
