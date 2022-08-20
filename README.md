@@ -1,30 +1,31 @@
-### Hi there 👋
+### Hi there 👋!
 
 <!--
 **asadullahrifat89/asadullahrifat89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+#### What I'm doing?
 - 🏢 I'm working at [SELISE DIGITAL PLATFORMS](https://selise.ch/)
-- 🔭 I write okay `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`
-- 🌱 I’m now building a [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)
+- 🔭 I write `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`
+- 🌱 I’m now building [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)
 - 👯 I’m looking to collaborate on **.NET Projects**
 - 🌍 I'm mostly active within the **.NET Community**
-- 🌱 Learning all about **WASM**, **System Architecture**, **Computer Vision**, **NLP**, **Process Mining**
-- 📫 Reach me @ **asadullah.rifat@selise.ch**
-- 💬 Ask me about **C#**, **Software Engineering**, **System Design**, **Microservices**
+- 🌱 Learning all about **WASM**, **System architecture**, **computer vision**, **NLP**, **process mining**, **distributed Systems**, **IoT integrated systems**
+- 📫 Mail me at **asadullah.rifat@selise.ch**
+- 💬 Ask me about **.NET**, **software development**, **system design**, **scalable systems**, **design patterns**, **software development principles**
 
-#### Development:
+#### What I do on GitHub?
 <b>⚡ Github Stats</b>
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-#### Recent Activity
+#### What I've been upto lately?
 - https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/
 
-#### Tech Stack
+#### What tech stack I use?
 - Client Side: 
   - Front-end:
     - Desktop: • WinUI 3 • UWP • WPF • Uno Platform
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
   - Design Principles: • Single responsibility, • DRY • ACID • DDD • SOLID
   - Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
 
-#### Social Media
+#### How to get in touch with me?
 
 <p left="center">
 <a href="https://twitter.com/anonymus_7">
