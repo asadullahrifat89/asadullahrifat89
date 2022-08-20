@@ -71,10 +71,10 @@ Here are some ideas to get you started:
 </p>
 
 #### What are my recent highlights?
-- https://twitter.com/UnoPlatform/status/1557751572678975488
-- https://www.linkedin.com/posts/uno-platform_a-space-shooter-game-on-the-web-with-c-activity-6965770912805568512-UUGN?utm_source=linkedin_share&utm_medium=member_desktop_web
-- https://www.linkedin.com/posts/uno-platform_its-always-such-a-pleasure-to-see-what-our-activity-6963517756608495616-vfbo?utm_source=linkedin_share&utm_medium=member_desktop_web
-- https://twitter.com/WasmWeekly/status/1560266404171231232
+- [a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
+- [featured-article-on-2d-web-games-on-wasm-weekly](https://twitter.com/WasmWeekly/status/1560266404171231232)
+- [featured-photot-editor-on-linkedin](https://www.linkedin.com/posts/uno-platform_its-always-such-a-pleasure-to-see-what-our-activity-6963517756608495616-vfbo?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- https://www.linkedin.com/posts/asadullah-rifat_people-tech-culture-activity-6962505193817071616-ymfj?utm_source=linkedin_share&utm_medium=member_desktop_web
 
 #### How to get in touch with me?
 
