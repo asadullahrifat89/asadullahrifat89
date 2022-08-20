@@ -63,15 +63,17 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-#### How much I code on GitHub?
+#### What do my GitHub stats say?
 <!--<b>⚡ Github Stats</b>-->
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-#### What I've been upto lately?
+#### What are my recent highlights?
 - https://twitter.com/UnoPlatform/status/1557751572678975488
+- https://www.linkedin.com/posts/uno-platform_a-space-shooter-game-on-the-web-with-c-activity-6965770912805568512-UUGN?utm_source=linkedin_share&utm_medium=member_desktop_web
+- https://www.linkedin.com/posts/uno-platform_its-always-such-a-pleasure-to-see-what-our-activity-6963517756608495616-vfbo?utm_source=linkedin_share&utm_medium=member_desktop_web
 - https://twitter.com/WasmWeekly/status/1560266404171231232
 
 #### How to get in touch with me?
