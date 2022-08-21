@@ -30,22 +30,24 @@ Here are some ideas to get you started:
     - **🖥 Desktop:** • Uno Platform • WinUI 3 • UWP • WPF 
     - **🌐 Web:** • Blazor WASM • Uno WASM • Open Silver • ASP.NET MVC  
     - **📱 Mobile:** • Xamarin • .NET MAUI • Uno Platform
-  - **🗳 UI Toolkits:** • Telerik • Dev Express
-  - **📋 Reporting Toolkits:** • RDLC • Dev Express Xtra Reporting • Telerik Reporting
+  - **🗳 UI toolkits:** • Telerik • Dev Express
+  - **📋 Reporting toolkits:** • RDLC • Dev Express Xtra Reporting • Telerik Reporting
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ C# 10`
   - **🔭 Frameworks:** • ASP.NET Web API
   - **💾 Databases:** • SQL Server • MongoDB • LiteDB • SQLite
-  - **🎛 System Architecture:** • Monolithic • Microservices
-  - **🔌 Communication Protocols:** • REST • SignalR • RabbitMQ • TCP/IP • Web Socket
-- 🎡 **Software Development Ecosystem:**
-  - **📁 Code Repository:** • Git • BitBucket • Microsoft Azure Dev Ops
-  - **🗃 Project Management:** • Jira • Azure DevOps
+  - **🎛 System architecture:** • Monolithic • Microservices
+  - **🔌 Communication protocols:** • REST • SignalR • RabbitMQ • TCP/IP • Web Socket
+- 🎡 **Software development ecosystem:**
+  - **📁 Code repository:** • Git • BitBucket • Microsoft Azure Dev Ops
+  - **🗃 Project management:** • Jira • Azure DevOps
   - **🗂 CI/CD:** • IIS • Azure Dev Ops • Azure Pipelines • Github Actions • Github Pages
-- 🧙‍♂️ **Coding Pattern & Principles:**
+- 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Event Sourcing • Message Queuing
   - **🗜 Principles:** • Single Responsibility, • DRY • ACID • DDD • SOLID
   - **🕹 Frameworks:** • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
+ - **Integrated development environments:** 
+    - <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height=25>
   
 #### What's interesting about me?  
   - 😎 I love to **speak** really good **english**, **discuss new ideas**, and **make clients smile**.
