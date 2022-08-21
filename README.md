@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as a hobby.
 
 #### What I like to disscuss about? 
-- 💬 Ask me about **.NET ecosystem**, **web APIs**, **system design**, **scalability**, **design patterns**, **data structures**, **coding speed hacks**, **clean code**, **feasibility analysis**, **requirement analysis**, **choice of frameworks**, and **tech culture**.
+- 💬 Ask me about **microsoft stack**, **web APIs**, **system design**, **scalability**, **design patterns**, **data structures**, **coding speed hacks**, **clean code**, **feasibility analysis**, **requirement analysis**, **choice of frameworks**, and **tech culture**.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
