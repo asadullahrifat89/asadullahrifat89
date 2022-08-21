@@ -21,19 +21,15 @@ Here are some ideas to get you started:
 - 🛠️ Working in projects that involve **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations**.
 
 #### How to get started with me? 
-- 💬 Ask me about **.NET ecosystem**, **scalable systems**, **design patterns**, **coding speed hacks**, **data structures**, and **clean code**.
-#### How to get in touch with me?
-<p left="center">  
-<a href="mailto:asadullah.rifat@selise.ch">
+- 📫 Reach me out on <a href="mailto:asadullah.rifat@selise.ch">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-<a href="https://twitter.com/anonymus_7">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25">
-</a> 
-<a href="https://www.linkedin.com/in/asadullah-rifat">
+</a> <a href="https://www.linkedin.com/in/asadullah-rifat">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a>
-</p>
+</a> <a href="https://twitter.com/anonymus_7">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+
+- 💬 Ask me about **.NET ecosystem**, **scalable systems**, **design patterns**, **coding speed hacks**, **data structures**, and **clean code**.
 
 #### What's my skill set?
 - 🖥 **Front-end:** 
@@ -84,3 +80,20 @@ Here are some ideas to get you started:
 - [featured-article-on-2d-web-games-on-twitter-wasm-weekly](https://twitter.com/WasmWeekly/status/1560266404171231232)
 - [featured-photot-editor-on-linkedin-uno-platform](https://www.linkedin.com/posts/uno-platform_its-always-such-a-pleasure-to-see-what-our-activity-6963517756608495616-vfbo?utm_source=linkedin_share&utm_medium=member_desktop_web)
 - [honored-with-dragon-award-by-selise-digital-platforms](https://www.linkedin.com/posts/asadullah-rifat_people-tech-culture-activity-6962505193817071616-ymfj?utm_source=linkedin_share&utm_medium=member_desktop_web)
+<!--
+#### How to get in touch with me?
+<p left="center">
+<a href="https://twitter.com/anonymus_7">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/asadullah-rifat">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/Anonymus7/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+<a href="mailto:asadullah.rifat@selise.ch">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
+-->
