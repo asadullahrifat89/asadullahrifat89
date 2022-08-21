@@ -62,7 +62,8 @@ Here are some ideas to get you started:
 #### What companies have I worked for?
 <p left="center">
   <a href="https://selise.ch/">
-    <img src="https://media.flughafen-zuerich.ch/-/jssmedia/airport/portal/logos/circle/selise_zugeschnitten.png?vs=1&rev=8557543d724f4c918b6aac0f2fcebc7d" height=80>   </a> 
+    <img src="https://media.flughafen-zuerich.ch/-/jssmedia/airport/portal/logos/circle/selise_zugeschnitten.png?vs=1&rev=8557543d724f4c918b6aac0f2fcebc7d" height=80>
+    </a> 
   <a href="https://3ssoftltd.com">
     <img src="https://3ssoftltd.com/wp-content/uploads/2021/08/logo-1.svg" height=80 width=200>
   </a>
