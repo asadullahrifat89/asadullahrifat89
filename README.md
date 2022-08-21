@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   - 😎 I love to **speak** really good **english**, **pitch new ideas** to **potential people**, and **make clients smile**.
   - 🧐 I love to be very **precise** and **thorough**. 
   - 👨‍💻 I write about **why a certain code is written instead of what** in the comments.
-  - ⏱️ I'm a **workaholic** and can work for **14 hrs straight**.
+  - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
   - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
   
 #### What companies have I worked for?
