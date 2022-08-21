@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 #### What's interesting about me?  
   - 😎 I love to **speak** really good **english**, **discuss new startup ideas**, and **make clients smile**.
   - 🧐 I love to be very **precise** and **thorough**.
-  - 👨‍💻 I write about **why a certain code is written instead of what** in the comments.
+  - ✍️ I write about **why a certain code is written instead of what** in the comments.
   - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
   - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
 <!--Github Stats-->
