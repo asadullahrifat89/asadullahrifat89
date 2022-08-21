@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
-  - 📜 Languages: • 🧙🏻 C# 10 • 👨‍🏭 XAML • 👨‍🔧 JavaScript • 🧚🏻‍♂️ HTML • 👨🏻‍🎨 CSS
+  - 📜 Languages: • `🧙🏻 C# 10` • `👨‍🏭 XAML` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - 🔬 Frameworks:   
     - 🖥 Desktop: • Uno Platform • WinUI 3 • UWP • WPF 
     - 🌐 Web: • Blazor WASM • Uno WASM • Open Silver • ASP.NET MVC  
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   - 🗳 UI Toolkits: • Telerik • Dev Express
   - 📋 Reporting Toolkits: • RDLC • Dev Express Xtra Reporting • Telerik Reporting
 - 🗄️ **Back-end:**
-  - 📜 Languages: • 🧙🏻‍♂️ C# 10
+  - 📜 Languages: • `🧙🏻‍♂️ C# 10`
   - 🔭 Frameworks: • ASP.NET Web API
   - 💾 Databases: • SQL Server • MongoDB • LiteDB • SQLite
   - 🎛 System Architecture: • Monolithic • Microservices
