@@ -47,10 +47,10 @@ Here are some ideas to get you started:
   - 🗜 Principles: • Single Responsibility, • DRY • ACID • DDD • SOLID
   - 🕹 Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
 - 😄 **Fun Facts:**  
-  - 😬 I love to **speak** really good **english**, **pitch new ideas** to **potential people**, and **make clients smile**.
+  - 🤗 I love to **speak** really good **english**, **pitch new ideas** to **potential people**, and **make clients smile**.
   - 🧐 I love to be very **precise** and **thorough**. 
-  - 😇 I write about **why a certain code is written instead of what** in the comments of my code.
-  - 🤠 I'm a **workaholic** and can work for **14 hrs straight**.
+  - 👨‍💻 I write about **why a certain code is written instead of what** in the comments of my code.
+  - ⏱️ I'm a **workaholic** and can work for **14 hrs straight**.
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
