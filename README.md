@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   - 📜 Languages: • 🧙🏻 C# 10 • 👨‍🏭 XAML • 👨‍🔧 JavaScript • 🧚🏻‍♂️ HTML • 👨🏻‍🎨 CSS
   - 🔬 Frameworks:   
     - 🖥 Desktop: • Uno Platform • WinUI 3 • UWP • WPF 
-    - 🌏 Web: • Blazor WASM • Uno WASM • Open Silver • ASP.NET MVC  
+    - 🌐 Web: • Blazor WASM • Uno WASM • Open Silver • ASP.NET MVC  
     - 📱 Mobile: • Xamarin • .NET MAUI • Uno Platform
   - 🗳 UI Toolkits: • Telerik • Dev Express
   - 📋 Reporting Toolkits: • RDLC • Dev Express Xtra Reporting • Telerik Reporting
@@ -47,11 +47,11 @@ Here are some ideas to get you started:
   - 🗜 Principles: • Single Responsibility, • DRY • ACID • DDD • SOLID
   - 🕹 Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
 - 😄 **Fun Facts:**
-  - I love to **pitch new ideas** to **potential people** and **make clients smile**.
-  - I love to **speak** really good **English**.
-  - I love to be very **precise** and **thorough**. 
-  - I write about **why a certain code is written instead of what** in the comments of my code.
-  - I'm a **workaholic** and can work for **14 hrs straight**.
+  - 😀 I love to **pitch new ideas** to **potential people** and **make clients smile**.
+  - 😬 I love to **speak** really good **English**.
+  - 🧐 I love to be very **precise** and **thorough**. 
+  - 😇 I write about **why a certain code is written instead of what** in the comments of my code.
+  - 🤠 I'm a **workaholic** and can work for **14 hrs straight**.
 - ⚡ **Github Stats:**
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
