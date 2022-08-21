@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 #### What I'm doing?
 - 🏢 Working at **[SELISE](https://selise.ch/)** as **Senior Software Engineer**.
-- 🔭 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`.
+- 👨‍💻 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`.
 - 🌍 Mostly active on **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)** and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
 - 🛠️ Working in projects involving **microservices**, **digital signatures**, **state machines**, **distributed systems**, **CQRS, repository, bridge, mediator patterns**, **WASM**, and **IoT integrations**.
