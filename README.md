@@ -25,27 +25,27 @@ Here are some ideas to get you started:
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
-  - 📜 Languages: • `🧙🏻 C# 10` • `👨‍🏭 XAML` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
-  - 🔬 Frameworks:   
-    - 🖥 Desktop: • Uno Platform • WinUI 3 • UWP • WPF 
-    - 🌐 Web: • Blazor WASM • Uno WASM • Open Silver • ASP.NET MVC  
-    - 📱 Mobile: • Xamarin • .NET MAUI • Uno Platform
-  - 🗳 UI Toolkits: • Telerik • Dev Express
-  - 📋 Reporting Toolkits: • RDLC • Dev Express Xtra Reporting • Telerik Reporting
+  - **📜 Languages:** • `🧙🏻 C# 10` • `👨‍🏭 XAML` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
+  - **🔬 Frameworks:**  
+    - **🖥 Desktop:** • Uno Platform • WinUI 3 • UWP • WPF 
+    - **🌐 Web:** • Blazor WASM • Uno WASM • Open Silver • ASP.NET MVC  
+    - **📱 Mobile:** • Xamarin • .NET MAUI • Uno Platform
+  - **🗳 UI Toolkits:** • Telerik • Dev Express
+  - **📋 Reporting Toolkits:** • RDLC • Dev Express Xtra Reporting • Telerik Reporting
 - 🗄️ **Back-end:**
-  - 📜 Languages: • `🧙🏻‍♂️ C# 10`
-  - 🔭 Frameworks: • ASP.NET Web API
-  - 💾 Databases: • SQL Server • MongoDB • LiteDB • SQLite
-  - 🎛 System Architecture: • Monolithic • Microservices
-  - 🔌 Communication Protocols: • REST • SignalR • RabbitMQ • TCP/IP • Web Socket
+  - **📜 Languages:** • `🧙🏻‍♂️ C# 10`
+  - **🔭 Frameworks:** • ASP.NET Web API
+  - **💾 Databases:** • SQL Server • MongoDB • LiteDB • SQLite
+  - **🎛 System Architecture:** • Monolithic • Microservices
+  - **🔌 Communication Protocols:** • REST • SignalR • RabbitMQ • TCP/IP • Web Socket
 - 🎡 **Software Development Ecosystem:**
-  - 📁 Code Repository: • Git • BitBucket • Microsoft Azure Dev Ops
-  - 🗃 Project Management: • Jira • Azure DevOps
-  - 🗂 CI/CD: • IIS • Azure Dev Ops • Azure Pipelines • Github Actions • Github Pages
+  - **📁 Code Repository:** • Git • BitBucket • Microsoft Azure Dev Ops
+  - **🗃 Project Management:** • Jira • Azure DevOps
+  - **🗂 CI/CD:** • IIS • Azure Dev Ops • Azure Pipelines • Github Actions • Github Pages
 - 🧙‍♂️ **Coding Pattern & Principles:**
-  - ⚒ Patterns:  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Event Sourcing • Message Queuing
-  - 🗜 Principles: • Single Responsibility, • DRY • ACID • DDD • SOLID
-  - 🕹 Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
+  - **⚒ Patterns:**  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Event Sourcing • Message Queuing
+  - **🗜 Principles:** • Single Responsibility, • DRY • ACID • DDD • SOLID
+  - **🕹 Frameworks:** • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
   
 #### What's interesting about me?  
   - 😎 I love to **speak** really good **english**, **discuss new startup ideas**, and **make clients smile**.
