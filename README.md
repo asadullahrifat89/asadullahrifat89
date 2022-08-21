@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on **.NET projects**.
 
 #### How to get started with me? 
-- 💬 Ask me about **.NET ecosystem**, **web APIs**, **system design**, **scalability**, **design patterns**, **data structures**, **coding speed hacks**, **clean code**, **feasibility analysis**, and **choice of frameworks**.
+- 💬 Ask me about **.NET ecosystem**, **web APIs**, **system design**, **scalability**, **design patterns**, **data structures**, **coding speed hacks**, **clean code**, **feasibility analysis**, **requirement analysis**, and **choice of frameworks**.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   
 #### What's interesting about me?  
   - 😎 I love to **speak** really good **english**, **pitch new ideas** to **potential people**, and **make clients smile**.
-  - 🧐 I love to be very **precise** and **thorough**. 
+  - 🧐 I love to be very **precise** and **thorough**.
   - 👨‍💻 I write about **why a certain code is written instead of what** in the comments.
   - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
   - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
