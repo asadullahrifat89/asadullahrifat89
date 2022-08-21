@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - A software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 9 years of hands-on experience in **system design, product development, technical consultancy, and team management.** 
 - Developed products for **MedTech, FinTech, Enterprise, and Logistics** business domains.
-- Have built **native, hybrid,** and **web** apps targeted for **mobile, desktop, and cross-platform ecosystems** in **monolithic** and **microservices** architectures.
+- Have built **native, hybrid,** and **web** apps targeting **multi-platform and cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
 - 🏢 Working at **[SELISE](https://selise.ch/)** as **Senior Software Engineer**.
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on **.NET projects**.
 - 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as a hobby.
 
-#### How to get started with me? 
-- 💬 Ask me about **.NET ecosystem**, **web APIs**, **system design**, **scalability**, **design patterns**, **data structures**, **coding speed hacks**, **clean code**, **feasibility analysis**, **requirement analysis**, and **choice of frameworks**.
+#### What I like to disscuss about? 
+- 💬 Ask me about **.NET ecosystem**, **web APIs**, **system design**, **scalability**, **design patterns**, **data structures**, **coding speed hacks**, **clean code**, **feasibility analysis**, **requirement analysis**, **choice of frameworks**, and **tech culture**.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
