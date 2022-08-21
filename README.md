@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   - **🗜 Principles:** • Single Responsibility, • DRY • ACID • DDD • SOLID
   - **🕹 Frameworks:** • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
   
-#### What IDE I use?
+#### What are my go-to IDE(s)?
 <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height=25></a>
   
 #### What's interesting about me?  
