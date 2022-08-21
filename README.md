@@ -14,21 +14,13 @@ Here are some ideas to get you started:
 #### What I'm doing?
 - 🏢 Working at **[SELISE](https://selise.ch/)** as **Senior Software Engineer**.
 - 🔭 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`.
-- 🥰 Building [Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform) & [Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform) as a hobby.
+- 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as a hobby.
 - 👯 Looking to collaborate on **.NET projects**.
-- 🌍 Mostly active within the **.NET community** and **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)**.
+- 🌍 Mostly active on **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)** and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
 - 🛠️ Working in projects that involve **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations**.
 
 #### How to get started with me? 
-- 📫 Reach me out on <a href="mailto:asadullah.rifat@selise.ch">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a> <a href="https://www.linkedin.com/in/asadullah-rifat">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> <a href="https://twitter.com/anonymus_7">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-
 - 💬 Ask me about **.NET ecosystem**, **scalable systems**, **design patterns**, **coding speed hacks**, **data structures**, and **clean code**.
 
 #### What's my skill set?
