@@ -46,7 +46,8 @@ Here are some ideas to get you started:
   - ⚒ Patterns:  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Event Sourcing • Message Queuing
   - 🗜 Principles: • Single Responsibility, • DRY • ACID • DDD • SOLID
   - 🕹 Frameworks: • .NET 6  • .NET Core 3.1 • .NET Standard 2.0 • .NET Framework 4.8 • Entity Framework
-- 😄 **Fun Facts:**  
+  
+#### What's interesting about me?  
   - 😎 I love to **speak** really good **english**, **pitch new ideas** to **potential people**, and **make clients smile**.
   - 🧐 I love to be very **precise** and **thorough**. 
   - 👨‍💻 I write about **why a certain code is written instead of what** in the comments of my code.
