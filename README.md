@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### How to get started with me? 
 - 💬 Ask me about **.NET ecosystem**, **web APIs**, **system design**, **scalability**, **design patterns**, **data structures**, **coding speed hacks**, **clean code**, and **choice of frameworks**.
 
-#### What's my skill set?
+#### What my skill set looks like?
 - 🖥 **Front-end:** 
   - 📜 Languages: • 🧙🏻 C# 10 • 👨‍🏭 XAML • 👨‍🔧 JavaScript • 🧚🏻‍♂️ HTML • 👨🏻‍🎨 CSS
   - 🔬 Frameworks:   
