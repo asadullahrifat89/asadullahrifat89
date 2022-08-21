@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 #### Who I am?
 - A software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 9 years of hands-on experience in **system design, product development, technical consultancy, and engineering team management.** 
+- Have 9 years of hands-on experience in **system design, product development, technical consultancy, and team management.** 
 - Developed products for **MedTech, FinTech, Enterprise, and Logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeted for **mobile, desktop, and cross-platform ecosystems** in **monolithic** and **microservices** architectures.
 
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 🏢 Working at **[SELISE](https://selise.ch/)** as **Senior Software Engineer**.
 - 🔭 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`.
 - 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as a hobby.
-- 👯 Looking to collaborate on **.NET projects**.
 - 🌍 Mostly active on **[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)** and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
 - 🛠️ Working in projects that involve **microservices**, **digital signatures**, **state machines**, **distributed systems**, **wasm**, and **IoT integrations**.
+- 👯 Looking to collaborate on **.NET projects**.
 
 #### How to get started with me? 
-- 💬 Ask me about **.NET ecosystem**, **scalable systems**, **design patterns**, **coding speed hacks**, **data structures**, and **clean code**.
+- 💬 Ask me about **.NET ecosystem**, **web APIs**, **system design**, **scalability**, **design patterns**, **data structures**, **coding speed hacks**, and **clean code**.
 
 #### What's my skill set?
 - 🖥 **Front-end:** 
