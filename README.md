@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 C# 10` • `👨‍🏭 XAML` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
-    - **🖥 Desktop:** • Uno Platform • WinUI 3 • UWP • WPF 
+    - **🖥 Desktop:** • [Uno Platform](https://platform.uno/) • [WinUI 3](https://docs.microsoft.com/en-us/windows/apps/winui/) • [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-6.0) 
     - **🌐 Web:** • Blazor WASM • Uno WASM • Open Silver • ASP.NET MVC  
     - **📱 Mobile:** • Xamarin • .NET MAUI • Uno Platform
   - **🗳 UI toolkits:** • Telerik • Dev Express
