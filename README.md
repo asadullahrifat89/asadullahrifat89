@@ -31,13 +31,13 @@ Here are some ideas to get you started:
     - **🌐 Web:** • [Blazor WASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) • [Uno WASM](https://platform.uno/uno-platform-for-web-webassembly/) • [Open Silver](https://opensilver.net/) • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
     - **📱 Mobile:** • [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) • [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) • [Uno Platform](https://platform.uno/uno-platform-for-ios-and-android/)
   - **🗳 UI toolkits:** • [Telerik](https://www.telerik.com/) • [Dev Express](https://www.devexpress.com/) • [MudBlazor](https://mudblazor.com/)
-  - **📋 Reporting toolkits:** • RDLC • Dev Express Xtra Reporting • Telerik Reporting
+  - **📋 Reporting toolkits:** • [RDLC](https://docs.fileformat.com/reporting/rdlc/#:~:text=(.rdlc)%20Files-,What%20is%20an%20RDLC%20file%3F,used%20to%20create%20these%20files.) • [Dev Express Xtra Reporting](https://docs.devexpress.com/XtraReports/2162/reporting) • [Telerik Reporting](https://www.telerik.com/products/reporting.aspx)
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ C# 10`
-  - **🔭 Frameworks:** • ASP.NET Web API
-  - **💾 Databases:** • SQL Server • MongoDB • LiteDB • SQLite
-  - **🎛 System architecture:** • Monolithic • Microservices
-  - **🔌 Communication protocols:** • REST • SignalR • RabbitMQ • TCP/IP • Web Socket
+  - **🔭 Frameworks:** • [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
+  - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [LiteDB](https://www.litedb.org/) • [SQLite](https://www.sqlite.org/index.html)
+  - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
+  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) • [RabbitMQ](https://www.rabbitmq.com/) • [TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • Git • BitBucket • Microsoft Azure Dev Ops
   - **🗃 Project management:** • Jira • Azure DevOps
