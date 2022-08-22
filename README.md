@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
-- 🏢 Working at **[SELISE](https://selise.ch/)** as **Senior Software Engineer**.
+- 🏢 Working at **[SELISE](https://selise.ch/)** as a **Senior Software Engineer**.
 - 👨‍💻 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-rifat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
