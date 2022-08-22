@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Writing `C#`, `SQL` ,`XAML`, `HTML`, `CSS`, `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-rifat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=25></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **computer vision**, and **process mining algorithms**.
-- 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **CQRS, repository, bridge, mediator patterns**, **WASM**, and **IoT integrations** professionally.
+- 🛠️ Working on **microservices**, **digital signatures**, **state machines**, **distributed systems**, **WASM**, and **IoT integrations** professionally.
 - 👯 Looking to collaborate on **.NET projects**.
 - 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as a hobby.
 
