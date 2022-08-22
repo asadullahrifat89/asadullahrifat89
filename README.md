@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 #### Who I am?
 - A software developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 9 years of hands-on experience in **system design, product development, technical consultancy, and team management.** 
+- Have 9 years of hands-on experience in **software development, tech consultancy,** and **team management.** 
 - Developed products for **MedTech, FinTech, Enterprise, and Logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
