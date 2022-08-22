@@ -28,9 +28,9 @@ Here are some ideas to get you started:
   - **📜 Languages:** • `🧙🏻 C# 10` • `👨‍🏭 XAML` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
     - **🖥 Desktop:** • [Uno Platform](https://platform.uno/) • [WinUI 3](https://docs.microsoft.com/en-us/windows/apps/winui/) • [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-6.0) 
-    - **🌐 Web:** • Blazor WASM • Uno WASM • Open Silver • ASP.NET MVC  
-    - **📱 Mobile:** • Xamarin • .NET MAUI • Uno Platform
-  - **🗳 UI toolkits:** • Telerik • Dev Express
+    - **🌐 Web:** • [Blazor WASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) • [Uno WASM](https://platform.uno/uno-platform-for-web-webassembly/) • [Open Silver](https://opensilver.net/) • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
+    - **📱 Mobile:** • [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) • [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) • [Uno Platform](https://platform.uno/uno-platform-for-ios-and-android/)
+  - **🗳 UI toolkits:** • [Telerik](https://www.telerik.com/) • [Dev Express](https://www.devexpress.com/) • [MudBlazor](https://mudblazor.com/)
   - **📋 Reporting toolkits:** • RDLC • Dev Express Xtra Reporting • Telerik Reporting
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ C# 10`
