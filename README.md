@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 #### What companies have I worked for?
 <p left="center">
   <a href="https://selise.ch/">
-    <img src="https://media.flughafen-zuerich.ch/-/jssmedia/airport/portal/logos/circle/selise_zugeschnitten.png?vs=1&rev=8557543d724f4c918b6aac0f2fcebc7d" height=100>
+    <img src="https://selise.ch/wp-content/uploads/2020/11/SELISE-DIgital-Platforms-.png" height=50>
     </a> 
   <a href="https://3ssoftltd.com">
-    <img src="https://www.sonicict.com/images/3s.png" height=60>
+    <img src="https://www.sonicict.com/images/3s.png" height=50>
   </a>
   <a href="https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/13/7e/6d/137e6dca-2956-bfec-a0bd-57d37ab63af0/source/512x512bb.jpg" height=60> 
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/13/7e/6d/137e6dca-2956-bfec-a0bd-57d37ab63af0/source/512x512bb.jpg" height=50> 
   </a>
   <a href="https://www.celimited.com/">
-    <img src="https://media-exp2.licdn.com/dms/image/C560BAQHExv1q9hPJsQ/company-logo_200_200/0/1596953488512?e=2147483647&v=beta&t=C1nc6JqP2kkOx1vGFxtL0iAqNIhB_Ulv62xyAm_hkNA" height=70>
+    <img src="https://media-exp2.licdn.com/dms/image/C560BAQHExv1q9hPJsQ/company-logo_200_200/0/1596953488512?e=2147483647&v=beta&t=C1nc6JqP2kkOx1vGFxtL0iAqNIhB_Ulv62xyAm_hkNA" height=50>
   </a>
 </p>
 
