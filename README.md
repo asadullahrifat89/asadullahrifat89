@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 🎡 **Software development ecosystem:**
   - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
-  - **🗂 CI/CD:** • IIS • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
+  - **🗂 CI/CD:** • [IIS](https://www.iis.net/) • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  • Mediator • Bridge • CQRS • MVVM • MVC • SAGA • Event Sourcing • Message Queuing
   - **🗜 Principles:** • Single Responsibility, • DRY • ACID • DDD • SOLID
