@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 #### What companies have I worked for?
 <p left="center">
   <a href="https://selise.ch/">
-    <img src="https://media.flughafen-zuerich.ch/-/jssmedia/airport/portal/logos/circle/selise_zugeschnitten.png?vs=1&rev=8557543d724f4c918b6aac0f2fcebc7d" height=100 width=140>
+    <img src="https://media.flughafen-zuerich.ch/-/jssmedia/airport/portal/logos/circle/selise_zugeschnitten.png?vs=1&rev=8557543d724f4c918b6aac0f2fcebc7d" height=100>
     </a> 
   <a href="https://3ssoftltd.com">
-    <img src="https://www.sonicict.com/images/3s.png" height=70 width=150>
+    <img src="https://www.sonicict.com/images/3s.png" height=60 width=140>
   </a>
   <a href="https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/13/7e/6d/137e6dca-2956-bfec-a0bd-57d37ab63af0/source/512x512bb.jpg" height=60> 
