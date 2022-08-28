@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
   
 #### What's interesting about me?  
-  - 😎 I love to **speak** really good **english**, **discuss new ideas**, and **make clients smile**.
+  - 😎 I love to **speak** really good **english**, discuss **new ideas**, and make people **smile**.
   - 🧐 I love to be very **precise** and **thorough**.
   - ✍️ I write about **why a certain code is written instead of what** in the comments.
   - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
