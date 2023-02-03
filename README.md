@@ -68,7 +68,7 @@ Here are some ideas to get you started:
     <img src="https://selisegroup.com/wp-content/uploads/2020/11/SELISE-DIgital-Platforms-.png" height=50>
     </a> 
   <a href="https://3ssoftltd.com">
-    <img src="https://3ssoftltd.com/wp-content/uploads/2022/08/logo-v2.svg" height=50 width=250>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0b-D5T2Flf7EDcsRtGCwK33TY8nWxldo-PoG3NGmzlGY60ZWjdNlTH42luTcRBKwg5xw&usqp=CAU" height=50>
   </a>
   <a href="https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/13/7e/6d/137e6dca-2956-bfec-a0bd-57d37ab63af0/source/512x512bb.jpg" height=50> 
