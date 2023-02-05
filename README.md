@@ -56,10 +56,11 @@ Here are some ideas to get you started:
   - ✍️ I write about **why a certain code is written instead of what** in the comments.
   - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
   - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
+
 <!--Github Stats-->
 <p float="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89"/>
 </p>
 
 #### What companies have I worked for?
