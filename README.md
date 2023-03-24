@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 #### What companies have I worked for?
 <p left="center">
   <a href="https://selisegroup.com/">
-    <img src="https://selisegroup.com/wp-content/uploads/2020/11/SELISE-DIgital-Platforms-.png" height=50>
+    <img src="https://selisegroup.com/wp-content/uploads/2022/10/logo.png" height=50>
     </a> 
   <a href="https://3ssoftltd.com">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0b-D5T2Flf7EDcsRtGCwK33TY8nWxldo-PoG3NGmzlGY60ZWjdNlTH42luTcRBKwg5xw&usqp=CAU" height=50>
