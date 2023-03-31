@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 #### What my GitHub Stats look like?
 <!--Github Stats-->
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&theme=tokyonight" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&theme=tokyonight"/>
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&theme=tokyonight" align="center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&theme=cobalt" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&theme=cobalt"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&show_icons=true&theme=cobalt" align="center"/>
 </p>
 
 #### What companies have I worked for?
