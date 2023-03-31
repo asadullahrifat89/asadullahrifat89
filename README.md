@@ -48,11 +48,11 @@ Here are some ideas to get you started:
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
 
-#### What my GitHub Stats look like?
 <!--Github Stats-->
+#### What my GitHub Stats look like?
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&theme=cobalt" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&theme=cobalt"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true"/>
 <img height="180em" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&show_icons=true&theme=cobalt" align="center"/>
 </p>
 
