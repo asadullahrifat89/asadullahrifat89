@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **wasm**, **large scale system design**, and **techical pitch**.
 - 👯 Looking to collaborate on **.NET projects**.
-- 🥰 Building **[Honk-Trooper](https://github.com/asadullahrifat89/honk-trooper-uno-platform)**, **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/asadullahrifat89/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/asadullahrifat89/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/asadullahrifat89/sky-way-uno-platform)**, **[Memory-Match](https://github.com/asadullahrifat89/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/asadullahrifat89/honk-hero-uno-platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as pet projects.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `microsoft stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
@@ -79,7 +78,10 @@ Here are some ideas to get you started:
   - ✍️ I write about **why a certain code is written instead of what** in the comments.
   - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
   - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
-  - 
+
+#### What am I building for fun?
+- 🥰 **[Honk-Trooper](https://github.com/asadullahrifat89/honk-trooper-uno-platform)**, **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/asadullahrifat89/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/asadullahrifat89/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/asadullahrifat89/sky-way-uno-platform)**, **[Memory-Match](https://github.com/asadullahrifat89/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/asadullahrifat89/honk-hero-uno-platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as pet projects.
+
 #### What are my recent highlights?
 - [featured-a-space-shooter-game-on-the-web-with-c#-wasm-on-blogs-uno-platform](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
 - [featured-photot-editor-on-linkedin-uno-platform](https://www.linkedin.com/posts/uno-platform_its-always-such-a-pleasure-to-see-what-our-activity-6963517756608495616-vfbo?utm_source=linkedin_share&utm_medium=member_desktop_web)
