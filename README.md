@@ -48,20 +48,13 @@ Here are some ideas to get you started:
   
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
-  
-#### What's interesting about me?  
-  - 😎 I am an **ambivert** and I can speak **english** in multiple accents.
-  - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
-  - ✍️ I write about **why a certain code is written instead of what** in the comments.
-  - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
-  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
 
-#### What my GitHub Stats looks like?
+#### What my GitHub Stats look like?
 <!--Github Stats-->
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&theme=onedark" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&theme=onedark"/>
-<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&theme=onedark&row=2&margin-w=5&margin-h=5&count_private=true"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&theme=onedark&row=2&margin-w=5&margin-h=5&count_private=true" align="center"/>
 </p>
 
 #### What companies have I worked for?
@@ -79,6 +72,13 @@ Here are some ideas to get you started:
     <img src="https://celimited.com/wp-content/uploads/2022/11/logo.png" height=50 width=250>
   </a>
 </p>
+
+#### What's interesting about me?  
+  - 😎 I am an **ambivert** and I can speak **english** in multiple accents.
+  - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
+  - ✍️ I write about **why a certain code is written instead of what** in the comments.
+  - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
+  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
 
 #### What are my recent highlights?
 - [featured-a-space-shooter-game-on-the-web-with-c#-wasm-on-blogs-uno-platform](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
