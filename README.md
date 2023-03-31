@@ -56,13 +56,13 @@ Here are some ideas to get you started:
   - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
   - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
 
+#### What my GitHub Stats looks like?
 <!--Github Stats-->
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&theme=onedark" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&theme=onedark"/>
+<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&theme=onedark&row=2&margin-w=5&margin-h=5&count_private=true"/>
 </p>
-
-<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 
 #### What companies have I worked for?
 <p left="center">
