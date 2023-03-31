@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&theme=onedark" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&theme=onedark"/>
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&theme=onedark&row=2&margin-w=5&margin-h=5&count_private=true" align="center"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&theme=onedark&count_private=true" align="center"/>
 </p>
 
 #### What companies have I worked for?
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   - ✍️ I write about **why a certain code is written instead of what** in the comments.
   - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
   - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
-
+  - 
 #### What are my recent highlights?
 - [featured-a-space-shooter-game-on-the-web-with-c#-wasm-on-blogs-uno-platform](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
 - [featured-photot-editor-on-linkedin-uno-platform](https://www.linkedin.com/posts/uno-platform_its-always-such-a-pleasure-to-see-what-our-activity-6963517756608495616-vfbo?utm_source=linkedin_share&utm_medium=member_desktop_web)
