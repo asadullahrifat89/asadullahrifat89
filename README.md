@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </p>
 
 #### What companies have I worked for?
-<p left="center">
+<!--<p left="center">
   <a href="https://selisegroup.com/">
     <img src="https://selisegroup.com/wp-content/uploads/2022/10/logo.png" height=50>
     </a> 
@@ -70,7 +70,11 @@ Here are some ideas to get you started:
   <a href="https://www.celimited.com/">
     <img src="https://celimited.com/wp-content/uploads/2022/11/logo.png" height=50 width=250>
   </a>
-</p>
+</p>-->
+- [SELISE Digital Platforms](https://selisegroup.com/)
+- [3S-Software, Service & Solution](https://3ssoftltd.com)
+- [GoBD](https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/)
+- [Computer Ease Ltd](https://www.celimited.com/)
 
 #### What's interesting about me?  
   - 😎 I am an **ambivert** and I can speak **english** in multiple accents.
