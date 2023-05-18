@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <!--Github Stats-->
 #### What my GitHub Stats look like?
-[![committers.top badge](https://user-badge.committers.top/bangladesh/asadullahrifat89.svg)](https://user-badge.committers.top/bangladesh/asadullahrifat89)
+[![committers.top badge](https://user-badge.committers.top/bangladesh_public/asadullahrifat89.svg)](https://user-badge.committers.top/bangladesh_public/asadullahrifat89)
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&layout=compact&langs_count=10"/>
