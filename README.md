@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 👨‍💻 Write `C#` `SQL` `XAML` `HTML` `CSS` `TypeScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
 - 📚 Talk about **clean architecture**, **desgign patterns**, **clean code**, **creative programming**, **system design**, **requirement engineering**, **techical sales**, & **work culture**.
-- 👯 Looking to collaborate on **.NET projects**.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
