@@ -12,11 +12,10 @@ Here are some ideas to get you started:
 - Developed products for **healthtech, fintech, F&B, retail,** and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
-#### What I'm doing?
-- 🏢 Working at **[SELISE](https://selise.ch/)** as a **Senior Solution Architect**.
-- 👨‍💻 Writing `C#` `SQL` `XAML` `HTML` `CSS` `JavaScript`.
+#### What I do?
+- 👨‍💻 Write `C#` `SQL` `XAML` `HTML` `CSS` `TypeScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
-- 📚 Currently learning about **clean architecture**, **wasm**, **large scale system design**, and **techical pitch**.
+- 📚 Talk about about **clean architecture**, **desgign patterns**, **clean code**, **creative programming**, **system design**, and **techical sales**.
 - 👯 Looking to collaborate on **.NET projects**.
 
 #### What I like to disscuss about? 
