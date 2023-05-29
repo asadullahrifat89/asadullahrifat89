@@ -7,9 +7,9 @@ I'm working as a Senior Solution Architect at SELISE digital platforms. I'm resp
 Here are some ideas to get you started:
 -->
 #### Who I am?
-- A solution architect based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 10 years of hands-on experience in **technology consulting, stakeholder engagement, product development.**
-- Developed products for **healthcare, financial service, F&B, retail,** and **logistics** business domains.
+- Based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- Have 10 years of **hands-on** coding experience.
+- Developed products for **healthtech, fintech, F&B, retail,** and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
