@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 - [GoBD](https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/)
 - [Computer Ease Ltd](https://www.celimited.com/)
 
-#### What's interesting about me?  
+#### What's weird about me?  
   - 😎 I am an **ambivert**.
   - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
   - ✍️ I write **why a certain code is written instead of what** in the comments.
