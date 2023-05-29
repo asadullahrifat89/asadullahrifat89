@@ -1,5 +1,8 @@
 ### Hello, I'm Asadullah Refat👋!
 
+I'm working a Senior Solution Architect at SELISE digital platforms. I'm responsible for designing services & applications for the organization.
+My key area of expertise lies in engaging with clients, defining user journeys, preparing architectural diagrams, and designing products. Apart from that I have mentoring obligations to enhace the workforce with industry insights & training.
+Contrary to the popular belief that architects do not code, I'm a life long programmer and I'm proud of it. I'm in the top 10 most active github contributer among over 80 thousand programmers in Bangladesh. My key area of interest lies in learning new programming languages and their internal workings and in disecting different front end frameworks to better fit certain frameworks with specific product requirements.
 <!--
 **asadullahrifat89/asadullahrifat89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
