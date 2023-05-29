@@ -74,11 +74,11 @@ Here are some ideas to get you started:
 - [Computer Ease Ltd](https://www.celimited.com/)
 
 #### What's interesting about me?  
-  - 😎 I am an **ambivert** and I can speak **english** in multiple accents.
+  - 😎 I am an **ambivert**.
   - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
-  - ✍️ I write about **why a certain code is written instead of what** in the comments.
+  - ✍️ I write **why a certain code is written instead of what** in the comments.
   - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
-  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
+  - 😅 I just can't **resist the urge** to **explore** a new **tech** and this highly disrupts my sleeping cycles.
 
 #### What am I building for fun?
 - 🥰 **[Honky Roads -PixiJS](https://github.com/asadullahrifat89/honk-buster-game-pixijs)**, **[Honk-Buster](https://github.com/asadullahrifat89/honk-buster-game-uno-platform)**, **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/asadullahrifat89/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/asadullahrifat89/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/asadullahrifat89/sky-way-uno-platform)**, **[Memory-Match](https://github.com/asadullahrifat89/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/asadullahrifat89/honk-hero-uno-platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as pet projects.
