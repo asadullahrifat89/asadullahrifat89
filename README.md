@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📚 Talk about **clean architecture**, **desgign patterns**, **clean code**, **creative programming**, **system design**, **requirement engineering**, **techical sales**, & **work culture**.
 
 # What are my skills?
-## Hard skills:
+## Hard Skills:
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 C# 11` • `👨‍🏭 XAML` • `👨‍🔧 TypeScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
 
-## Soft skills:
+## Soft Skills:
 - Performing effective communication with onshore and offshore clients and development teams. Understanding client needs and providing consultancy on conceptualizing effective solutions.
 - Designing product vision, feasibility analysis, and technical roadmap.
 - Mentoring young teammates and providing coding insights and knowledge to solve problems.
