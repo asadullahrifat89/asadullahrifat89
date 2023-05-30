@@ -1,4 +1,4 @@
-### Hello, I'm Asadullah Refat👋!
+# Hello, I'm Asadullah Refat👋!
 
 I'm working as a Senior Solution Architect at SELISE digital platforms. In my current role, I'm responsible for designing services & applications for the company and facilitating all the business units. My key area of expertise lies in engaging with clients, defining user journeys, preparing architectural diagrams, and developing products. Apart from that I have mentoring obligations to enhance the workforce with industry insights & training. Contrary to the popular belief that architects do not code, I'm a lifelong programmer and proud of it. I'm in the top 10 most active GitHub contributors among over 80 thousand programmers in Bangladesh. My key area of interest lies in learning new programming languages and their internal workings and in dissecting different front-end frameworks to fit certain frameworks with specific product requirements better.
 <!--
@@ -6,18 +6,18 @@ I'm working as a Senior Solution Architect at SELISE digital platforms. In my cu
 
 Here are some ideas to get you started:
 -->
-#### Who I am?
+# Who I am?
 - Based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 10 years of **hands-on** coding experience.
 - Developed products for **healthtech, fintech, F&B, retail,** and **logistics** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
-#### What I do?
+# What I do?
 - 👨‍💻 Write `C#` `SQL` `XAML` `HTML` `CSS` `TypeScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
 - 📚 Talk about **clean architecture**, **desgign patterns**, **clean code**, **creative programming**, **system design**, **requirement engineering**, **techical sales**, & **work culture**.
 
-#### What my skill set looks like?
+# What my skill set looks like?
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 C# 11` • `👨‍🏭 XAML` • `👨‍🔧 TypeScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
@@ -45,21 +45,20 @@ Here are some ideas to get you started:
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
 
 <!--Github Stats-->
-#### What my GitHub Stats look like?
-[![committers.top badge](https://user-badge.committers.top/bangladesh_public/asadullahrifat89.svg)](https://user-badge.committers.top/bangladesh_public/asadullahrifat89)
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&theme=swift&hide_border=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&layout=compact&show_icons=true&theme=swift&hide_border=true"/>
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&show_icons=true&theme=discord&no-frame=false&no-bg=true&margin-w=4" align="center"/>
-</p>
+# What my GitHub Stats look like?
+![](https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&theme=swift&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&layout=compact&show_icons=true&theme=swift&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&show_icons=true&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-#### What companies have I worked for?
+[![committers.top badge](https://user-badge.committers.top/bangladesh_public/asadullahrifat89.svg)](https://user-badge.committers.top/bangladesh_public/asadullahrifat89)
+
+# What companies have I worked for?
 - [SELISE Digital Platforms](https://selisegroup.com/)
 - [3S-Software, Service & Solution](https://3ssoftltd.com)
 - [GoBD](https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/)
 - [Computer Ease Ltd](https://www.celimited.com/)
 
-#### What's weird about me?  
+# What's weird about me?  
   - 😎 I am an **ambivert**.
   - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
   - ✍️ I write **why a certain code is written instead of what** in the comments.
