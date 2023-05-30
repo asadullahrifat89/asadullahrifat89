@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 #### What my GitHub Stats look like?
 [![committers.top badge](https://user-badge.committers.top/bangladesh_public/asadullahrifat89.svg)](https://user-badge.committers.top/bangladesh_public/asadullahrifat89)
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&layout=compact&langs_count=10"/>
-<img height="180em" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&show_icons=true&theme=cobalt" align="center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&theme=swift&hide_border=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&layout=compact&langs_count=10&theme=swift&hide_border=true"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&show_icons=true&theme=discord&no-frame=false&no-bg=true&margin-w=4" align="center"/>
 </p>
 
 #### What companies have I worked for?
