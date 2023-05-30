@@ -7,10 +7,10 @@ I'm working as a Senior Solution Architect at SELISE digital platforms. In my cu
 Here are some ideas to get you started:
 -->
 # Where I am?
+- Based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 10 years of **hands-on** coding experience.
 - Developed products for **healthtech, fintech, F&B, retail,** and **logistics** business domains in startups and enterprises.
 - Developed **multi-platform** and **cross-platform** apps along with **monolithic** APIs and **microservices**.
-- Based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 
 # What I do?
 - 👨‍💻 Write `C#` `SQL` `XAML` `HTML` `CSS` `TypeScript`.
