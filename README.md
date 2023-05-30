@@ -6,7 +6,7 @@ I'm working as a Senior Solution Architect at SELISE digital platforms. In my cu
 
 Here are some ideas to get you started:
 -->
-# My journey so far
+# Where I am?
 - Have 10 years of **hands-on** coding experience.
 - Developed products for **healthtech, fintech, F&B, retail,** and **logistics** business domains in startups and enterprises.
 - Developed **multi-platform** and **cross-platform** apps along with **monolithic** APIs and **microservices**.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
 - 📚 Talk about **clean architecture**, **desgign patterns**, **clean code**, **creative programming**, **system design**, **requirement engineering**, **techical sales**, & **work culture**.
 
-# My skillset
+# What are my skills?
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 C# 11` • `👨‍🏭 XAML` • `👨‍🔧 TypeScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
