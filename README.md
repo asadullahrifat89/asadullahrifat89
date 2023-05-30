@@ -49,25 +49,11 @@ Here are some ideas to get you started:
 [![committers.top badge](https://user-badge.committers.top/bangladesh_public/asadullahrifat89.svg)](https://user-badge.committers.top/bangladesh_public/asadullahrifat89)
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&theme=swift&hide_border=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&show_icons=true&layout=compact&langs_count=10&theme=swift&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&layout=compact&show_icons=true&theme=swift&hide_border=true"/>
 <img height="180em" src="https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&show_icons=true&theme=discord&no-frame=false&no-bg=true&margin-w=4" align="center"/>
 </p>
 
 #### What companies have I worked for?
-<!--<p left="center">
-  <a href="https://selisegroup.com/">
-    <img src="https://selisegroup.com/wp-content/uploads/2022/10/logo.png" height=50>
-    </a> 
-  <a href="https://3ssoftltd.com">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0b-D5T2Flf7EDcsRtGCwK33TY8nWxldo-PoG3NGmzlGY60ZWjdNlTH42luTcRBKwg5xw&usqp=CAU" height=50>
-  </a>
-  <a href="https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/13/7e/6d/137e6dca-2956-bfec-a0bd-57d37ab63af0/source/512x512bb.jpg" height=50> 
-  </a>
-  <a href="https://www.celimited.com/">
-    <img src="https://celimited.com/wp-content/uploads/2022/11/logo.png" height=50 width=250>
-  </a>
-</p>-->
 - [SELISE Digital Platforms](https://selisegroup.com/)
 - [3S-Software, Service & Solution](https://3ssoftltd.com)
 - [GoBD](https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/)
