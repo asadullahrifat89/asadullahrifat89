@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 
 [![committers.top badge](https://user-badge.committers.top/bangladesh_public/asadullahrifat89.svg)](https://user-badge.committers.top/bangladesh_public/asadullahrifat89)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=asadullahrifat89&theme=swift&hide_border=true)
+
 # What companies have I worked for?
 - [SELISE Digital Platforms](https://selisegroup.com/)
 - [3S-Software, Service & Solution](https://3ssoftltd.com)
