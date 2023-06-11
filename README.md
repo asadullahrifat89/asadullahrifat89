@@ -59,7 +59,7 @@ Taking calculated risks, conflict resolution, and keeping stakeholders in proper
 
 ![](https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&theme=swift&hide_border=true)
 
-![](https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&show_icons=true&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&show_icons=true&theme=swift&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&layout=compact&show_icons=true&theme=swift&hide_border=true)
 
