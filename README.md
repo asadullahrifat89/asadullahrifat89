@@ -1,4 +1,4 @@
-![Blue and White Architect LinkedIn Banner-modified](https://github.com/asadullahrifat89/asadullahrifat89/assets/25480176/038d0ab9-37b4-412a-a039-b64db81a309c)
+![Blue and White Architect LinkedIn Banner-modified](https://github.com/asadullahrifat89/asadullahrifat89/assets/25480176/ea698dee-5842-45d6-8da2-1c64baebd646)
 
 In my current role, I'm responsible for designing services & applications. My key area of expertise lies in pre-sales activities, including product research, market research, requirement analysis, customer analysis, feasibility analysis, product demonstrations, technical presentations, solution discovery, proof of concepts, proposals, etc. I'm a lifelong programmer and among the top 10 most active GitHub contributors in Bangladesh. My hobbies include learning new programming languages and dissecting different front-end frameworks to better fit certain frameworks with specific product requirements.
 <!--
