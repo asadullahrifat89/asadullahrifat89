@@ -3,11 +3,7 @@
 In my current role, I'm responsible for designing services & applications. My key area of expertise lies in pre-sales activities, including product research, market research, requirement analysis, customer analysis, feasibility analysis, product demonstrations, technical presentations, solution discovery, proof of concepts, proposals, etc. I'm a lifelong programmer and among the top 10 most active GitHub contributors in Bangladesh. My hobbies include learning new programming languages and dissecting different front-end frameworks to better fit certain frameworks with specific product requirements.
 
 ![](https://komarev.com/ghpvc/?username=asadullahrifat89)
-<!--
-**asadullahrifat89/asadullahrifat89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 # Who am I?
 - Based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 10 years of **hands-on** coding experience.
@@ -17,7 +13,7 @@ Here are some ideas to get you started:
 # What do I do?
 - 👨‍💻 Write `C#` `SQL` `XAML` `HTML` `CSS` `TypeScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
-- 📚 Talk about **clean architecture**, **desgign patterns**, **clean code**, **creative programming**, **system design**, **requirement engineering**, **techical sales**, & **work culture**.
+- 📚 Talk about **clean architecture**, **design patterns**, **clean code**, **creative programming**, **system design**, **requirement engineering**, **techical sales**, & **work culture**.
 
 # What skills do I have?
 ## Hard Skills:
@@ -82,21 +78,3 @@ Taking calculated risks, conflict resolution, and keeping stakeholders in proper
 - [featured-10-days-of-game-development-with-uno-platform-webassembly-and-c#](https://platform.uno/blog/10-days-of-game-development-with-uno-platform-webassembly-and-c/)
 - [featured-a-space-shooter-game-on-the-web-with-c#-wasm-on-blogs-uno-platform](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
 - [featured-article-on-2d-web-games-on-twitter-wasm-weekly](https://twitter.com/WasmWeekly/status/1560266404171231232)
-
-<!--
-#### How to get in touch with me?
-<p left="center">
-<a href="https://twitter.com/anonymus_7">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/asadullah-rifat">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://www.facebook.com/Anonymus7/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
-</a>
-<a href="mailto:asadullah.rifat@selise.ch">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-</p>
--->
