@@ -50,13 +50,13 @@ I'm a programmer working at [SELISE Digital Platforms](https://selisegroup.com/)
 Taking calculated risks, conflict resolution, and keeping stakeholders in proper sync.
 
 <!--Github Stats-->
-# GitHub Stats
+# What do my GitHub Stats look like?
 [![committers.top badge](https://user-badge.committers.top/bangladesh_public/asadullahrifat89.svg)](https://user-badge.committers.top/bangladesh_public/asadullahrifat89)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asadullahrifat89&theme=swift&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=asadullahrifat89&show_icons=true&theme=swift&hide_border=true)
-![](https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&show_icons=true&theme=swift&no-frame=false&no-bg=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89&layout=compact&show_icons=true&theme=swift&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&show_icons=true&theme=swift&no-frame=false&no-bg=false)
 
 # What companies have I worked for?
 - [SELISE Digital Platforms](https://selisegroup.com/)
