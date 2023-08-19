@@ -1,6 +1,6 @@
 ![Blue and White Architect LinkedIn Banner-modified](https://github.com/asadullahrifat89/asadullahrifat89/assets/25480176/ea698dee-5842-45d6-8da2-1c64baebd646)
 # Hi there! I'm Asadullah Refat.
-In my current role, I'm responsible for designing services & applications. My key area of expertise lies in pre-sales activities, including product research, market research, requirement analysis, customer analysis, feasibility analysis, product demonstrations, technical presentations, solution discovery, proof of concepts, proposals, etc. I'm a lifelong programmer and among the top 10 most active GitHub contributors in Bangladesh. My hobbies include learning new programming languages and dissecting different front-end frameworks to better fit certain frameworks with specific product requirements.
+I'm a programmer working at [SELISE Digital Platforms](https://selisegroup.com/) as a *Senior Solution Architect*. My key area of expertise lies in pre-sales activities, including product design, requirement analysis, feasibility analysis, product demonstrations, technical advisory, and solution architecture discovery. Contrary to the popular belief that architects don't code, I'm a lifelong programmer and among the top 5 most active GitHub contributors in Bangladesh among over 80k programmers (this does not indicate talent, btw). My hobbies include learning new programming languages and dissecting different front-end frameworks to better fit certain frameworks with specific product requirements.
 
 ![](https://komarev.com/ghpvc/?username=asadullahrifat89)
 
@@ -64,13 +64,6 @@ Taking calculated risks, conflict resolution, and keeping stakeholders in proper
 - [GoBD](https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/)
 - [Computer Ease Ltd](https://www.celimited.com/)
 
-# What's weird about me?  
-  - 😎 I am an **ambivert**.
-  - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
-  - ✍️ I write **why a certain code is written instead of what** in the comments.
-  - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
-  - 😅 I just can't **resist the urge** to **explore** a new **tech** and this highly disrupts my sleeping cycles.
-
 # What do I build for fun?
 - 🥰 **[Honky Roads -PixiJS](https://github.com/asadullahrifat89/honk-buster-game-pixijs)**, **[Honk-Buster](https://github.com/asadullahrifat89/honk-buster-game-uno-platform)**, **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/asadullahrifat89/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/asadullahrifat89/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/asadullahrifat89/sky-way-uno-platform)**, **[Memory-Match](https://github.com/asadullahrifat89/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/asadullahrifat89/honk-hero-uno-platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as pet projects.
 
@@ -78,3 +71,10 @@ Taking calculated risks, conflict resolution, and keeping stakeholders in proper
 - [featured-10-days-of-game-development-with-uno-platform-webassembly-and-c#](https://platform.uno/blog/10-days-of-game-development-with-uno-platform-webassembly-and-c/)
 - [featured-a-space-shooter-game-on-the-web-with-c#-wasm-on-blogs-uno-platform](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
 - [featured-article-on-2d-web-games-on-twitter-wasm-weekly](https://twitter.com/WasmWeekly/status/1560266404171231232)
+
+# What's weird about me?  
+- 😎 I am an **ambivert**.
+- 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
+- ✍️ I write **why a certain code is written instead of what** in the comments.
+- ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
+- 😅 I just can't **resist the urge** to **explore** a new **tech** and this highly disrupts my sleeping cycles.
