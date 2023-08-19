@@ -1,25 +1,25 @@
 ![Blue and White Architect LinkedIn Banner-modified](https://github.com/asadullahrifat89/asadullahrifat89/assets/25480176/ea698dee-5842-45d6-8da2-1c64baebd646)
 # Hi there! I'm Asadullah Refat.
-![](https://komarev.com/ghpvc/?username=asadullahrifat89)
-
 In my current role, I'm responsible for designing services & applications. My key area of expertise lies in pre-sales activities, including product research, market research, requirement analysis, customer analysis, feasibility analysis, product demonstrations, technical presentations, solution discovery, proof of concepts, proposals, etc. I'm a lifelong programmer and among the top 10 most active GitHub contributors in Bangladesh. My hobbies include learning new programming languages and dissecting different front-end frameworks to better fit certain frameworks with specific product requirements.
+
+![](https://komarev.com/ghpvc/?username=asadullahrifat89)
 <!--
 **asadullahrifat89/asadullahrifat89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-# Where I am?
+# Who am I?
 - Based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 10 years of **hands-on** coding experience.
 - Developed products for **healthtech, fintech, F&B, retail,** and **logistics** business domains in startups and enterprises.
 - Developed **multi-platform** and **cross-platform** apps along with **monolithic** APIs and **microservices**.
 
-# What I do?
+# What do I do?
 - 👨‍💻 Write `C#` `SQL` `XAML` `HTML` `CSS` `TypeScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/asadullah-refat"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **.NET community**.
 - 📚 Talk about **clean architecture**, **desgign patterns**, **clean code**, **creative programming**, **system design**, **requirement engineering**, **techical sales**, & **work culture**.
 
-# What are my skills?
+# What skills do I have?
 ## Hard Skills:
 - 🖥 **Front-end:** 
   - **📜 Languages:** • `🧙🏻 C# 11` • `👨‍🏭 XAML` • `👨‍🔧 TypeScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
@@ -78,7 +78,7 @@ Taking calculated risks, conflict resolution, and keeping stakeholders in proper
   - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
   - 😅 I just can't **resist the urge** to **explore** a new **tech** and this highly disrupts my sleeping cycles.
 
-# What I build for fun?
+# What do I build for fun?
 - 🥰 **[Honky Roads -PixiJS](https://github.com/asadullahrifat89/honk-buster-game-pixijs)**, **[Honk-Buster](https://github.com/asadullahrifat89/honk-buster-game-uno-platform)**, **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/asadullahrifat89/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/asadullahrifat89/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/asadullahrifat89/sky-way-uno-platform)**, **[Memory-Match](https://github.com/asadullahrifat89/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/asadullahrifat89/honk-hero-uno-platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as pet projects.
 
 # What are my recent highlights?
