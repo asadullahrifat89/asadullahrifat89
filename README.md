@@ -2,11 +2,11 @@
 
 # Hi! I'm Asadullah Refat.
 
-I am currently employed at [SELISE Digital Platforms](https://selisegroup.com/) as the Head of Academy (Business Operations & Engineering). In my role as a full-time Head of Business Operations, Senior Solution Architect, and Developer Trainer, I am responsible for overseeing custom-tailored in-house intensive training programs designed to transform developers into versatile performers with exceptional communication and problem-solving abilities. 
+I am currently employed at [SELISE Digital Platforms](https://selisegroup.com/) as the Head of Academy (Business Operations & Engineering). In my role as a full-time Senior Solution Architect, Developer Trainer, and Presales Expert I am responsible for overseeing custom-tailored in-house intensive training programs designed to transform developers into versatile performers with exceptional communication and problem-solving abilities. 
 
 My objective is to equip young developers with the knowledge and skills necessary to become independent, world-class professionals who are well-prepared for the demands of Industry 4.0. 
 
-My primary area of expertise lies in pre-sales activities, encompassing product design, requirement analysis, feasibility analysis, product demonstrations, technical advisory, and solution architecture discovery. 
+My primary area of expertise lies in presales activities, encompassing product design, requirement analysis, feasibility analysis, product demonstrations, technical advisory, and solution architecture discovery. 
 
 Contrary to the common misconception that architects do not engage in coding, I have been a lifelong programmer and have consistently ranked among the top most active GitHub contributors in Bangladesh out of over 90,000 programmers. 
 
