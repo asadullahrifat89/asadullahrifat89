@@ -1,6 +1,16 @@
-![Blue and White Architect LinkedIn Banner-modified](https://github.com/asadullahrifat89/asadullahrifat89/assets/25480176/ea698dee-5842-45d6-8da2-1c64baebd646)
-# Hi there! I'm Asadullah Refat.
-I'm working at [SELISE Digital Platforms](https://selisegroup.com/) as *Head of Academy (Business Operations & Engineering)*. Working as full-time Head of Business Operations, Senior Solution Architect, and Mentor of young programmers, I oversee custom-tailored in-house intensive training programs to make developers versatile performers with great communication and problem-solving skills. I aim to provide young developers with the knowledge and skills necessary to become independent, world-class professionals who are ready for Industry 4.0. My key area of expertise lies in pre-sales activities, including product design, requirement analysis, feasibility analysis, product demonstrations, technical advisory, and solution architecture discovery. Contrary to the popular belief that architects don't code, I'm a lifelong programmer and among the top 10 most active GitHub contributors in Bangladesh among over 90k programmers (this does not indicate talent, btw). With a strong focus on data structure, my hobbies include learning new programming languages and dissecting different front-end frameworks to better fit certain frameworks with specific product requirements along with experimenting with different design patterns and system design concepts.
+![Solution Architect 4](https://github.com/asadullahrifat89/asadullahrifat89/assets/25480176/6c4c3224-f929-4a90-bda8-91a12dbadbd3)
+
+# Hi! I'm Asadullah Refat.
+
+I am currently employed at [SELISE Digital Platforms](https://selisegroup.com/) as the Head of Academy (Business Operations & Engineering). In my role as a full-time Head of Business Operations, Senior Solution Architect, and Developer Trainer, I am responsible for overseeing custom-tailored in-house intensive training programs designed to transform developers into versatile performers with exceptional communication and problem-solving abilities. 
+
+My objective is to equip young developers with the knowledge and skills necessary to become independent, world-class professionals who are well-prepared for the demands of Industry 4.0. 
+
+My primary area of expertise lies in pre-sales activities, encompassing product design, requirement analysis, feasibility analysis, product demonstrations, technical advisory, and solution architecture discovery. 
+
+Contrary to the common misconception that architects do not engage in coding, I have been a lifelong programmer and have consistently ranked among the top most active GitHub contributors in Bangladesh out of over 90,000 programmers. 
+
+With a strong emphasis on data structure and algorithms, my interests include learning new programming languages and meticulously examining various programming frameworks to identify the most suitable options for specific product requirements. Additionally, I enjoy experimenting with different design patterns and system design concepts.
 
 ![](https://komarev.com/ghpvc/?username=asadullahrifat89)
 
