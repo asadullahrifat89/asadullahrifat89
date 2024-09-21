@@ -2,11 +2,13 @@
 
 # Hi! I'm Asadullah Refat.
 
-I am currently employed at [SELISE Digital Platforms](https://selisegroup.com/) as the Head of Academy (Business Operations & Engineering). In my role as a full-time Senior Solution Architect, Developer Trainer, and Presales Expert I am responsible for overseeing custom-tailored in-house intensive training programs designed to transform developers into versatile performers with exceptional communication and problem-solving abilities. 
+As the Head of Business Operations & Engineering at Academy @ SELISE Digital Platforms, I am dedicated to helping startups thrive by providing the necessary tools and guidance to bring their innovative ideas to life. With a strong background in system design, clean code practices, and product management, I am passionate about helping teams build robust Minimum Viable Products (MVPs) that meet the needs of both the business and its users.
 
-My objective is to equip young developers with the knowledge and skills necessary to become independent, world-class professionals who are well-prepared for the demands of Industry 4.0. 
+My expertise in pre-sales and requirement engineering allows me to work closely with clients to understand their goals and translate them into actionable plans for development. By focusing on creating scalable and efficient solutions, I ensure that our products not only meet the immediate needs of our clients but also have the flexibility to adapt to future changes in the market.
 
-My primary area of expertise lies in presales activities, encompassing product design, requirement analysis, feasibility analysis, product demonstrations, technical advisory, and solution architecture discovery. 
+I firmly believe that effective communication and collaboration are key to the success of any project. By fostering a culture of teamwork and open communication, I empower my team to work together towards a common goal, ultimately leading to successful outcomes for our clients.
+
+I am driven by a passion for innovation and a desire to make a positive impact in the tech industry. By combining my technical expertise with my strong leadership skills, I am able to help startups navigate the complexities of product development and drive growth in their businesses.
 
 Contrary to the common misconception that architects do not engage in coding, I have been a lifelong programmer and have consistently ranked among the top most active GitHub contributors in Bangladesh out of over 90,000 programmers. 
 
