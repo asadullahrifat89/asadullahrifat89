@@ -1,4 +1,5 @@
-![Solution Architect 4](https://github.com/asadullahrifat89/asadullahrifat89/assets/25480176/6c4c3224-f929-4a90-bda8-91a12dbadbd3)
+
+![Black Simple Elegant Personal LinkedIn Banner](https://github.com/user-attachments/assets/585c9750-3795-4d32-89f2-59e6c987eaca)
 
 # Hi! I'm Asadullah Refat.
 
