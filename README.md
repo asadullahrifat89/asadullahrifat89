@@ -1,19 +1,28 @@
 
-![Black Simple Elegant Personal LinkedIn Banner](https://github.com/user-attachments/assets/585c9750-3795-4d32-89f2-59e6c987eaca)
+![creolytix_cover](https://github.com/user-attachments/assets/c3d60b67-104b-4103-bd4b-6ca18c5f9b5e)
 
 # Hi! I'm Asadullah Refat.
 
-As the Head of Business Operations & Engineering at Academy @ SELISE Digital Platforms, I am dedicated to helping startups thrive by providing the necessary tools and guidance to bring their innovative ideas to life. With a strong background in system design, clean code practices, and product management, I am passionate about helping teams build robust Minimum Viable Products (MVPs) that meet the needs of both the business and its users.
+With over a decade of experience in engineering leadership, I specialize in building scalable, secure, and innovative technology solutions. I thrive at the intersection of technology and strategy, where I lead teams to push boundaries, deliver impactful solutions, and drive business growth.
 
-My expertise in pre-sales and requirement engineering allows me to work closely with clients to understand their goals and translate them into actionable plans for development. By focusing on creating scalable and efficient solutions, I ensure that our products not only meet the immediate needs of our clients but also have the flexibility to adapt to future changes in the market.
+Currently serving as the Vice President of Engineering & DevOps at Creolytix, I am proud to contribute to a platform that redefines operational resilience. By enabling real-time risk detection, advanced analytics, and streamlined incident response, we empower organizations to mitigate threats proactively and ensure continuity in the face of challenges.
 
-I firmly believe that effective communication and collaboration are key to the success of any project. By fostering a culture of teamwork and open communication, I empower my team to work together towards a common goal, ultimately leading to successful outcomes for our clients.
+Key Strengths:
 
-I am driven by a passion for innovation and a desire to make a positive impact in the tech industry. By combining my technical expertise with my strong leadership skills, I am able to help startups navigate the complexities of product development and drive growth in their businesses.
+• Building and mentoring high-performing, cross-functional teams.
+• Designing scalable system architectures and driving DevOps transformations.
+• Delivering strategic leadership with a focus on innovation and operational excellence.
+• Enhancing security resilience through advanced engineering practices.
 
-Contrary to the common misconception that architects do not engage in coding, I have been a lifelong programmer and have consistently ranked among the top most active GitHub contributors in Bangladesh out of over 90,000 programmers. 
+Throughout my career, I have successfully led projects across diverse domains, including data science, advanced computing, and AI integrations. My mission is to inspire and empower teams to solve complex challenges, foster a culture of innovation, and create lasting impact.
 
-With a strong emphasis on data structure and algorithms, my interests include learning new programming languages and meticulously examining various programming frameworks to identify the most suitable options for specific product requirements. Additionally, I enjoy experimenting with different design patterns and system design concepts.
+Passionate About:
+
+• Pioneering cutting-edge technologies to address real-world challenges.
+• Creating inclusive environments that nurture talent and drive collaboration.
+• Leveraging technology to build a safer, smarter, and more resilient world.
+
+📩 I’m always eager to connect with like-minded professionals and explore opportunities to create meaningful change. Let’s collaborate!
 
 ![](https://komarev.com/ghpvc/?username=asadullahrifat89)
 
@@ -72,6 +81,7 @@ Taking calculated risks, conflict resolution, and keeping stakeholders in proper
 ![](https://github-profile-trophy.vercel.app/?username=asadullahrifat89&count_private=true&show_icons=true&theme=swift&no-frame=false&no-bg=false)
 
 # What companies have I worked for?
+- [Creolytix](https://creolytix.io/)
 - [SELISE Digital Platforms](https://selisegroup.com/)
 - [3S-Software, Service & Solution](https://3ssoftltd.com)
 - [GoBD](https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/)
