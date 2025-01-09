@@ -5,7 +5,7 @@
 
 With over a decade of experience in engineering leadership, I specialize in building scalable, secure, and innovative technology solutions. I thrive at the intersection of technology and strategy, where I lead teams to push boundaries, deliver impactful solutions, and drive business growth.
 
-Currently serving as the Vice President of Engineering & DevOps at Creolytix, I am proud to contribute to a platform that redefines operational resilience. By enabling real-time risk detection, advanced analytics, and streamlined incident response, we empower organizations to mitigate threats proactively and ensure continuity in the face of challenges.
+Currently serving as the Vice President of Engineering at Creolytix, I am proud to contribute to a platform that redefines operational resilience. By enabling real-time risk detection, advanced analytics, and streamlined incident response, we empower organizations to mitigate threats proactively and ensure continuity in the face of challenges.
 
 Key Strengths:
 
